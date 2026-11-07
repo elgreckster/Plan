@@ -1,0 +1,3311 @@
+{
+  "version": "2.2.1",
+  "title": "The Winter Feast",
+  "date": "2026-12-25",
+  "baseGuests": 9,
+  "guests": "4 adult omnivores · 3 vegan adults · 2 children",
+  "mainTime": "14:20",
+  "recipes": [
+    {
+      "id": "palmiers",
+      "name": "Caramelised onion & rosemary palmiers",
+      "course": "Welcome",
+      "station": "Gas oven",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 35,
+      "total": "~90–120min including onion reduction and chilling; plus day-of refresh",
+      "makeAhead": "Bake & freeze 19–20 Dec",
+      "description": "Crisp, savoury bites to serve with clementine-rosemary fizz.",
+      "ingredients": [
+        {
+          "name": "Vegan puff pastry",
+          "qty": 300,
+          "unit": "g",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Onions",
+          "qty": 350,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Dijon mustard",
+          "qty": 20,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh rosemary",
+          "qty": 12,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "Approx. 8g picked leaves minced for pastry; ~4g sprigs for drinks. Trial former stronger 20g dose separately."
+        },
+        {
+          "name": "Olive oil",
+          "qty": 25,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Nutritional yeast",
+          "qty": 12,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Clementines",
+          "qty": 12,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Sparkling water",
+          "qty": 1,
+          "unit": "l",
+          "aisle": "Drinks",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Caster sugar",
+          "qty": 50,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": true,
+          "note": "Only if making the optional homemade rosemary syrup for the drinks."
+        }
+      ],
+      "steps": [
+        "Cook 350g finely sliced onions in the listed 25ml oil over medium-low heat for a TRIAL 30–45min until deeply golden and nearly dry; weigh cooked yield. Cool COMPLETELY in a shallow dish before filling pastry.",
+        "Roll out 300g cold verified-vegan puff pastry; spread THINLY with 20g mustard, fully cold dry onions, ~8g very finely minced tender rosemary leaves (NO stalks) and 12g nutritional yeast.",
+        "Roll both long edges tightly to meet; chill at least 30min until firm, then slice evenly ~8–10mm and keep cool before baking.",
+        "Bake spaced on parchment around 200°C/Gas 6 for PROVISIONAL 18–25min until deeply golden and crisp THROUGH the central seam. Rack-cool fully; freeze in airtight container.",
+        "TESTBED METHOD: at ~11:50 on Christmas Day re-crisp baked frozen palmiers in the gas oven ~170–180°C/Gas 4–5 for an unvalidated 8–12min, until hot and crisp throughout. Rack-cool for 12:30 welcome. Oven must be freed for 12:15 pie preheat. If oven unavailable, use a separately tested fully defrosted room-temperature serving method, never serve frozen pastry.",
+        "CLEMENTINE FIZZ (make juice ahead): squeeze 12 clementines, aiming for around 450–550ml juice (the true yield varies). Chill. At service add up to 1 litre well-chilled sparkling water, tasting as you go: it should still taste distinctly of clementine, not watery. Use a little of the reserved ~4g rosemary for garnish. Optional HOMEMADE ROSEMARY SYRUP: simmer 50g caster sugar, 50ml water and 2–3 small rosemary sprigs for 2–3 minutes, cool and strain (roughly 80ml yield); add only enough to balance the fruit. Leave the syrup out entirely if the fruit is sweet enough."
+      ],
+      "checkpoints": [
+        "Cool onion filling before pastry",
+        "Ensure pastry is vegan",
+        "No soggy centres",
+        "Test 8g rosemary leaves in pastry versus prior 20g; baked-from-frozen re-crisp at 11:50 must free oven before 12:15"
+      ],
+      "allergens": [
+        "Gluten",
+        "Mustard"
+      ],
+      "notes": "The earlier 5-fruit to 1L soda ratio was too weak. Juice yield and clementine sweetness vary by fruit; start with about twice as much juice as before and dilute by taste. There is a separate optional 50g sugar allowance only for making syrup when choosing the optional homemade syrup. CHEF TRIAL: Ottolenghi-style slow, dry onion reduction and cold pastry. Record onion cooked weight, rosemary dose, bake and refresh times and seam crispness. Not validated.",
+      "optional": false
+    },
+    {
+      "id": "soup",
+      "name": "Celeriac, parsnip & apple velouté",
+      "course": "Starter",
+      "station": "Hob / multicooker",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 45,
+      "total": "75 min",
+      "makeAhead": "Make and freeze 19–20 Dec",
+      "description": "Smooth, wintery and bright; garnish is added only at service.",
+      "ingredients": [
+        {
+          "name": "Celeriac",
+          "qty": 800,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "Peeled weight; expect ~1–1.2kg whole depending on trimming."
+        },
+        {
+          "name": "Parsnips",
+          "qty": 450,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Apples",
+          "qty": 3,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "Three purchased for comparison: put TWO in the baseline soup; cook third separately ONLY for sweeter variant."
+        },
+        {
+          "name": "Onions",
+          "qty": 200,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegetable stock",
+          "qty": 1500,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Unsweetened oat cream",
+          "qty": 250,
+          "unit": "ml",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh sage",
+          "qty": 18,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Olive oil",
+          "qty": 35,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Hazelnuts",
+          "qty": 70,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": true,
+          "note": ""
+        },
+        {
+          "name": "Lemon",
+          "qty": 1,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        }
+      ],
+      "steps": [
+        "Dice 800g peeled celeriac, 450g parsnips, TWO of the 3 apples and 200g onions. Sweat onion in 35ml olive oil until translucent without browning. Third apple reserved for a separately cooked trial variant, not added raw.",
+        "Start with ~1.2L of the listed 1.5L VEGAN stock; reserve 300ml to thin at the end. Simmer roots and two apples ~25–40min until completely soft. Avoid an unnecessarily watery soup.",
+        "Blend extremely smooth (strain only if necessary), season and measure final base volume. For 9 small starter bowls aim 9×180–220ml plus modest contingency; freeze excess separately. Adjust with reserved stock only as needed, and freeze WITHOUT 250ml oat cream.",
+        "25 DEC — Reheat fully thawed soup, stirring until steaming throughout; add 250ml oat cream and a little fresh lemon to balance the parsnip/apple sweetness, tasting incrementally. Record actual finished ml and lemon used. Crisp sage separately, and offer optional 70g toasted hazelnuts ON THE SIDE for allergens."
+      ],
+      "checkpoints": [
+        "Smooth, spoon-coating texture",
+        "Freeze without cream",
+        "Hazelnuts on the side",
+        "Record two-versus-three cooked apple taste, base volume, actual stock/lemon used and nine portion sizes"
+      ],
+      "allergens": [
+        "Celery",
+        "Oats",
+        "Tree nuts (optional)"
+      ],
+      "notes": "Target 9 starter-size bowls (roughly 180–220ml each) before the large roast, not an automatic 300ml portion; the total cooked volume depends on actual vegetable sizes and reduction. CHEF TRIAL: Anna Jones-style balanced celeriac/apple, crisp sage and optional nuts. The two-apple baseline and initial 1.2L stock are provisional.",
+      "optional": false
+    },
+    {
+      "id": "porchetta",
+      "name": "Fennel, sage & clementine porchetta",
+      "course": "Main · omnivore",
+      "station": "Weber Master-Touch",
+      "vegan": false,
+      "serves": 6,
+      "activeMin": 95,
+      "total": "Weber indirect roast ~4–5½h plus optional 15–25min crackling and uncovered rest; trial required",
+      "makeAhead": "Ask butcher to prep an even belly roll; roll, salt and air-dry uncovered from 23 Dec evening",
+      "description": "Skin-on belly, fragrant filling, uncompromisingly crisp crackling.",
+      "ingredients": [
+        {
+          "name": "Skin-on boneless pork belly",
+          "qty": 2.8,
+          "unit": "kg",
+          "aisle": "Butcher",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh sage",
+          "qty": 25,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh rosemary",
+          "qty": 18,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fennel seeds",
+          "qty": 12,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Garlic",
+          "qty": 8,
+          "unit": "cloves",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Clementines",
+          "qty": 3,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fine sea salt",
+          "qty": 35,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Black pepper",
+          "qty": 8,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Charcoal briquettes",
+          "qty": 8,
+          "unit": "kg",
+          "aisle": "Equipment",
+          "optional": false,
+          "note": "Have about 8kg AVAILABLE as a winter fuel reserve for long indirect cooking and a possible high-heat finish. Consumption varies; buy bag sizes by total weight, not number of bags."
+        },
+        {
+          "name": "Cooking twine",
+          "qty": 1,
+          "unit": "roll",
+          "aisle": "Equipment",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Applewood smoking chunks",
+          "qty": 3,
+          "unit": "chunks",
+          "aisle": "Equipment",
+          "optional": true,
+          "note": "2–3 small clean untreated fruitwood chunks; avoid overpowering smoke."
+        },
+        {
+          "name": "Onions",
+          "qty": 1,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "For the meat-only drip pan; keep separated from vegan preparation."
+        },
+        {
+          "name": "Apples",
+          "qty": 1,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "For the meat-only drip pan."
+        },
+        {
+          "name": "Dry cider",
+          "qty": 100,
+          "unit": "ml",
+          "aisle": "Drinks",
+          "optional": true,
+          "note": "Drip pan only; the pork jus separately needs its 400ml cider."
+        }
+      ],
+      "steps": [
+        "23 DEC EVENING — ASK THE BUTCHER for a neat, even 2.8kg boneless skin-on belly rectangle, rib cartilage removed and unusually thick meat evened out. Ask to take trimmed rib bones home if available, but do not assume they are included. Skin edges should meet without overlap when rolled. Score ONLY the flesh. Spread about 21g of the listed 35g fine salt, all 8g black pepper, 12g lightly toasted crushed fennel seeds, 25g sage, 18g rosemary, 8 crushed garlic cloves and the zest of 3 clementines over the flesh. Optional pinch of chilli flakes or lemon zest is a deliberate, unweighed variation, not required by the shopping list.",
+        "23 DEC EVENING — Roll skin outwards into a firm even cylinder and tie with cooking twine about every 2–3cm. Pat skin very dry; rub with the remaining ~14g fine salt. If tested, VERY shallow fine pin-pricks through the rind can help fat blister, but do not deeply puncture flesh. Do not add baking powder by default (only after a test of quantity and taste). Set uncovered on a rack inside a catch tray on the LOWEST fridge shelf, physically isolated from ready-to-eat vegan food. Check adequate fridge space and temperature below 5°C. Keep refrigerated until shortly before cooking; do not leave raw pork out for an hour by default.",
+        "25 DEC — Set up Weber Master-Touch outdoors and sheltered from gusts but NEVER in an enclosed space. Default: one charcoal bank/basket to one side with a clear indirect zone under the joint; position a metal drip tray beneath it away from direct flames. Alternatively use a rehearsed 2-wide/2-high snake of briquettes around the edge; a snake is DESIGNED to ignite unlit briquettes progressively, so do not confuse it with throwing a heap of unlit coals into the hot fire. Light the main fire with a chimney and safe firelighters. Add 2–3 optional small applewood chunks for subtle smoke; avoid lighter fluid. Maintain a measured provisional 160–180°C at the GRATE, adjusting vents and adding lit fuel when appropriate, never relying solely on the lid dial.",
+        "25 DEC — Aim to place the rolled belly on the indirect side around 08:15, skin uppermost; thickest section nearer the heat. Use one clean food probe in the centre and a separate grate-level thermometer. In the drip tray put the listed 1 onion, 1 apple and optionally 100ml cider with a splash of water to prevent scorching; do not let rendered fat flare on the coals. The tray and drippings are MEAT-ONLY. Take a reading every 45–60 minutes (provisional 09:15, 10:15 and 11:15 checks), adjusting airflow or turning the joint for even cooking. Do not open the kettle more often than required. If the pan begins drying or burning, add a little liquid carefully; skim and boil any collected juices thoroughly before adding to pork jus.",
+        "ROLLED-PORK SAFETY FIRST — Cook the centre to at least the UK FSA 70°C held 2 minutes, or an accepted equivalent time/temperature combination, measured with a clean calibrated probe. Beyond that mandatory safety checkpoint, aim PROVISIONALLY for about 85–88°C for a tender, well-rendered belly, checking that a skewer or probe slips through the meat and fat with little resistance. Temperature is a guide to texture, not a guarantee. At 160–180°C a 2.8kg rolled joint might need substantially more than four hours: there is NO promise it reaches tenderness by 12:30. Record actual time and grate conditions during a rehearsal.",
+        "CRACKLING — Check core, fat rendering and skin at about 12:20, then decide whether a high-heat finish will be appropriate around 13:00–13:25 (provisional). If the meat is approaching the tender end point, light sufficient fresh charcoal completely in the chimney to make a controlled high INDIRECT heat phase around 230–260°C grate temperature. A full chimney is a reserve option, NOT an automatic instruction: use the grate reading and fuel already alight. Carefully control vents, keep the pork out of direct flame, and observe the skin closely for roughly 15–25 minutes; turn the joint only when needed for even blistering. Move the drip pan safely if steaming liquid would spoil the crackle, but ALWAYS protect against dripping fat flare-ups. If the centre is not safe and tender, continue indirect cooking and push pork later rather than forcing early crackling. The 13:00 start is a conditional appointment, never proof that it is ready.",
+        "REST, CARVE AND SERVE — When pork is safe, tender and crackling crisp, remove to a clean rack over a meat-only tray, uncovered and away from steam. Allow roughly 20–40 minutes of rest as a starting range; if ready substantially early, monitor actual food temperature and use a verified safe holding plan, or adjust when the meat is served. Never leave it uncovered for a fixed 65–70 minutes just to reach the carving time, or assume a closed kettle at 110°C hot-holds safely without changing texture. Ideally carve shortly before the planned 14:20 main, around 14:05–14:10, onto a meat-only platter. Serve the VEGAN pithivier and sides on time if pork is still cooking. If any meat is late, the meat course can follow separately.",
+        "WEBER TRIAL RECORD (do not substitute rotisserie timings): with a real 2.8kg belly-only roll record diameter, start temperature, outdoor wind, grate/core every 45–60min, fuel added in kg, time above FSA 70°C/2min safety checkpoint, ~85–88°C tender probe response, indirect high-heat finish and final uncovered rest. Keep vegan service independently at 14:20."
+      ],
+      "checkpoints": [
+        "Use a properly set up INDIRECT fire with a separate grate probe; wind changes temperatures",
+        "Keep pork drip pan, utensils and board entirely separate from vegan dishes",
+        "Rolled pork: FSA 70°C for 2 minutes, or accepted equivalent, verified at core",
+        "Tenderness goal ~85–88°C is provisional; feel and fat rendering take priority",
+        "Crackle only when meat is close enough to done; additional fully lit fuel is conditional, not a clock guarantee",
+        "Have approximately 8kg total briquettes available in winter, not necessarily two bags",
+        "Conditional high-heat slot around 13:00; uncover and rest for ~20–40min, carve near 14:05 only if safe and ready. No fixed 65-minute counter rest.",
+        "Record actual Weber fuel consumption, safe dwell, final skin and tender-probe feel before treating 08:15–13:25 as reliable"
+      ],
+      "allergens": [
+        "Meat"
+      ],
+      "notes": "Andrew Clarke's published live-fire guidance supports clean charcoal, zones and small wood additions; this is our adapted Weber plan, not his personal recipe. A one-side fire is the default because it leaves a useful indirect zone; a 2x2 snake is an alternative after rehearsal and relies deliberately on progressively igniting unlit briquettes. Weber's own crackling recipes vary in charcoal amount and often employ different setups/rotisserie: a full chimney is NOT an assured need nor a fixed temperature guarantee. The ~85–88°C core is a texture planning target only, distinct from mandatory safe core/time. The fixed roast schedule is aspirational and temperature/weather-dependent: if late, the vegan main is served independently. When choosing to keep pork whole for extended rest, plan food-safe holding separately. Use suitable heatproof gloves, dedicated meat pan and foil drip tray; do not move a pan of near-boiling liquid in a hurry. Optional saved bones may be roasted and simmered for an improved meat-only stock ahead of time.",
+      "optional": false
+    },
+    {
+      "id": "pork-jus",
+      "name": "Apple, cider & pork jus",
+      "course": "Sauce · omnivore",
+      "station": "Hob",
+      "vegan": false,
+      "serves": 6,
+      "activeMin": 30,
+      "total": "60 min",
+      "makeAhead": "Freeze base 19–20 Dec",
+      "description": "A separate meat-only sauce, never placed among vegan sides.",
+      "ingredients": [
+        {
+          "name": "Dry cider",
+          "qty": 400,
+          "unit": "ml",
+          "aisle": "Drinks",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Apples",
+          "qty": 2,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Shallots",
+          "qty": 150,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Pork or chicken stock",
+          "qty": 600,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Apple cider vinegar",
+          "qty": 25,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Olive oil",
+          "qty": 15,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        }
+      ],
+      "steps": [
+        "MEAT ONLY: brown 150g shallots in 15ml oil 8–12min. Baseline test uses ONE of the two chopped apples; optionally brown the second for a richer/sweeter comparison. Add 400ml cider, reduce by half and scrape up the flavourful brown bits; record reduction time and apple choice.",
+        "Add 600ml pork or chicken stock, simmer 20–30min, strain and reduce again to a balanced pouring jus. Measure yield for 6 meat eaters; shop stock may be light-bodied. Season AFTER reduction, then add the listed 25ml vinegar gradually, starting with ~10ml to counter rich pork without making a sweet-sour sauce.",
+        "Cool promptly and freeze in a labelled MEAT-ONLY container. If your butcher provided pork rib bones, roast and simmer them with water and aromatics to make or enrich the 600ml stock in this recipe; otherwise use bought meat stock. On Christmas Day reheat thawed jus in its separate pork-only saucepan until steaming throughout. Skim the fat from any pork drip-pan juices and thoroughly boil them before adding to the jus; reduce and taste. Do not assume captured drippings are fat-free or ready to serve."
+      ],
+      "checkpoints": [
+        "Keep meat gravy fully separate",
+        "Reheat until steaming",
+        "Taste 1 vs 2 apple comparison, record ml of finished jus and vinegar added AFTER reduction"
+      ],
+      "allergens": [
+        "Meat",
+        "Sulphites (check cider)",
+        "Celery (check stock)"
+      ],
+      "notes": "Optional pork rib bones and carefully skimmed Weber pan juices can give stock depth and reduce waste, but both are strictly meat-only. If bones are not supplied, use the stated stock; do not silently double the required 600ml. Heat any added drip juices thoroughly. CHEF TRIAL: classical browned shallot/cider reduction and acidity-led pork sauce. Second apple is optional taste comparison, not necessary for baseline.",
+      "optional": false
+    },
+    {
+      "id": "pithivier",
+      "name": "Wild mushroom, chestnut & squash pithivier",
+      "course": "Main · vegan",
+      "station": "Gas oven",
+      "vegan": true,
+      "serves": 6,
+      "activeMin": 110,
+      "total": "~3–4h across days including two chills; 50–75min oven bake",
+      "makeAhead": "Cook filling 23 Dec evening, chill promptly; assemble 24 Dec; bake 25 Dec",
+      "description": "A generous 26–28cm pastry centrepiece with a properly dry, savoury filling.",
+      "ingredients": [
+        {
+          "name": "Mixed fresh mushrooms",
+          "qty": 900,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "Trial baseline: reduce dry and measure cooked weight. Previous 1100g is a comparison, not volume guaranteed to fit."
+        },
+        {
+          "name": "Cooked chestnuts",
+          "qty": 250,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Butternut squash",
+          "qty": 250,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Shallots",
+          "qty": 180,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Garlic",
+          "qty": 5,
+          "unit": "cloves",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Cooked Puy lentils",
+          "qty": 180,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": true,
+          "note": "Optional filling variation ONLY if completed filling can fit within dome geometry. Otherwise hold for later."
+        },
+        {
+          "name": "Fresh thyme",
+          "qty": 18,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegan puff pastry",
+          "qty": 850,
+          "unit": "g",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "White miso",
+          "qty": 25,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Aquafaba",
+          "qty": 60,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Unsweetened oat milk",
+          "qty": 30,
+          "unit": "ml",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Maple syrup",
+          "qty": 8,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Sherry vinegar",
+          "qty": 15,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Olive oil",
+          "qty": 35,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fine sea salt",
+          "qty": 8,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "note": "Start with approximately 5g in the mushrooms and season the cooked filling to taste; account for salty miso and pastry.",
+          "optional": false
+        }
+      ],
+      "steps": [
+        "23 DEC — DRY FILLING: sauté 900g finely chopped fresh mushrooms in TWO uncrowded batches in ~25ml of the total 35ml oil, medium-high, until their liquid is completely gone and they SIZZLE and brown, roughly 15–25min per batch. Weigh the dry cooled mushrooms and record moisture loss.",
+        "Roast 250g squash in 1–1.5cm dice with remaining ~10ml oil at ~200°C/Gas 6 until caramelised, 20–30min. Soften 180g shallots and 5 garlic cloves; combine with mushrooms, squash, 250g chopped chestnuts, thyme 18g, miso 25g and up to 15ml sherry vinegar. The 180g cooked Puy lentils are OPTIONAL ONLY after a physical fit check. Start with ~5g of listed 8g salt, taste considering miso. Keep filling DRY, cool promptly in shallow dishes and refrigerate below 5°C; record time for safe holding window.",
+        "24 DEC — GEOMETRY GATE: measure volume and weight of ALL cold filling. A 27–28cm pastry base with a CLEAN 3cm sealing margin leaves only ~21–22cm diameter for a low, compact filling mound. Make a small mock dome; record height and maximum pastry stretch. DO NOT force all filling in. Set surplus aside refrigerated for a separate meal, not an overflowing pie; record grams enclosed vs reserved.",
+        "Use 850g verified-vegan BLOCK puff pastry, not narrow ready-rolled sheets, roll ~3–4mm thick into a 27–28cm base and a LARGER ~32–34cm lid, adjusted to the actual dome. Form low filling mound leaving 3cm rim; lightly moisten rim with some of the listed 60ml aquafaba, drape lid snugly with NO stretching, press out trapped air and firmly seal/crimp without crushing cut puff layers. Trim rim. CHILL 45–60min to relax pastry; lightly score a fan pattern without cutting through, pierce ~1cm central steam vent and RE-CHILL ~15min before storing cold overnight.",
+        "25 DEC — Light glaze: up to 60ml aquafaba + 30ml unsweetened oat milk + 8ml maple; use only a light coat, keep rim clear. Preheat gas oven and HEAVY flat baking sheet ~200°C/Gas 6. Slide cold pie on parchment to hot sheet. Trial bake 50–75min with shared potato tray; lid must be deeply golden, UNDERSIDE browned/cooked and cooked filling steaming hot throughout (a clean probe around 75°C helps assess centre). Rotate cautiously if needed; do not burn top to save wet base.",
+        "Rest ~10min, cut three generous vegan servings first, then distribute remaining slices. Log total filling cooked, surplus, pie dimensions, bake time, base condition and actual servings."
+      ],
+      "checkpoints": [
+        "Weigh cooked dry mushrooms and final filling (g and ml)",
+        "~21–22cm usable dome on 27–28cm base; leave clear 3cm rim",
+        "Do NOT overfill: weigh enclosed and refrigerated surplus",
+        "850g labelled VEGAN block puff; lid fits WITHOUT stretch",
+        "Chill 45–60min; score/vent; re-chill 15min",
+        "Preheated heavy sheet; inspect deeply browned base and hot centre",
+        "First 3 generous portions reserved for vegan diners"
+      ],
+      "allergens": [
+        "Gluten",
+        "Soy",
+        "Oats",
+        "Sulphites (check sherry vinegar)"
+      ],
+      "notes": "Use a large block of verified-vegan puff pastry: standard UK ready-rolled rectangles cannot give both the 27–28cm base and the larger domed lid. Do a small pastry rehearsal to check actual gas-oven base browning and filling depth. If the filling is cooked after 17:00 on 23 Dec, cooled promptly below 5°C and baked early on 25 Dec, keep within the FSA 48-hour refrigerated-leftover guidance; record preparation time. Otherwise cook on 24 Dec or freeze in advance. CHEF TECHNIQUE TESTBED: Sally Abé-style snug pastry, cold rest, score and re-chill. These trial filling masses (900g mushrooms, 250g chestnuts, 250g squash, 180g shallots) REPLACE the larger prior baseline to test fitting; weigh actual completed dome and reserve excess. Published smaller pithiviers cannot establish our bake time.",
+      "optional": false
+    },
+    {
+      "id": "porcini",
+      "name": "Porcini & shallot reduction",
+      "course": "Sauce · vegan",
+      "station": "Hob",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 40,
+      "total": "~90–120min allowing full reduction",
+      "makeAhead": "Make and freeze 19–20 Dec",
+      "description": "Dark, concentrated and silky, without meat stock or butter.",
+      "ingredients": [
+        {
+          "name": "Dried porcini",
+          "qty": 40,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": "Soak in about 350ml hot water; strain the liquid through a fine paper filter and use it."
+        },
+        {
+          "name": "Shallots",
+          "qty": 250,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Mixed fresh mushrooms",
+          "qty": 250,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegetable stock",
+          "qty": 850,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegan-labelled Madeira",
+          "qty": 150,
+          "unit": "ml",
+          "aisle": "Drinks",
+          "optional": true,
+          "note": ""
+        },
+        {
+          "name": "Olive oil",
+          "qty": 20,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "White miso",
+          "qty": 12,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegan block butter",
+          "qty": 20,
+          "unit": "g",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": "Whisk in off heat for gloss; optional 5g cornflour slurry if too thin."
+        }
+      ],
+      "steps": [
+        "Soak 40g dried porcini in approximately 350ml hot water for 20–30min; lift out and pass the liquor through coffee filter or very fine cloth to remove grit. Retain mushrooms and filtered liquor.",
+        "Brown 250g shallots and 250g fresh mushrooms deeply in 20ml olive oil, without steaming. Deglaze with OPTIONAL verified-vegan 150ml Madeira and reduce almost away; add chopped porcini, filtered liquor and 850ml vegan stock, and simmer. Strain carefully.",
+        "REDUCE the strained stock to provisional 500–650ml concentrated POURING BASE (about 50–70ml for each of nine). Measure real yield and time; aim savoury, not overly salty. Whisk in up to 12g miso gradually only AFTER reducing. Cool promptly and freeze WITHOUT the 20g vegan butter.",
+        "25 DEC: thaw then reheat through in its own VEGAN saucepan until steaming; adjust seasoning and thin or reduce as appropriate. OFF THE HEAT mount with 20g COLD vegan block butter for gloss, do not boil hard afterwards. Keep totally apart from meat jus and use its own ladle."
+      ],
+      "checkpoints": [
+        "Strain porcini grit",
+        "Use vegan-labelled fortified wine or omit",
+        "Use separate sauce ladle",
+        "Record final finished sauce 500–650ml target, miso used and salinity after reduction"
+      ],
+      "allergens": [
+        "Soy",
+        "Sulphites (if wine)",
+        "Celery (check stock)"
+      ],
+      "notes": "The butter is a Christmas Day finishing ingredient, not part of the frozen sauce base: thawing can split an early emulsion. If freezing a thicker sauce, concentrate the base by reduction before chilling instead of relying on a cornflour-thickened emulsion. CHEF TRIAL: Anna Jones/Ottolenghi mushroom depth and filtered stock; target yield and reduction time NOT yet measured.",
+      "optional": false
+    },
+    {
+      "id": "roasties",
+      "name": "Ultra-crisp Maris Piper roast potatoes",
+      "course": "Shared sides",
+      "station": "Gas oven",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 40,
+      "total": "95 min across 2 days",
+      "makeAhead": "Par-roast 24 Dec",
+      "description": "A non-negotiable Christmas favourite; vegetable fat only.",
+      "ingredients": [
+        {
+          "name": "Maris Piper potatoes",
+          "qty": 2300,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Rapeseed oil",
+          "qty": 160,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fine sea salt",
+          "qty": 18,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh rosemary",
+          "qty": 10,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        }
+      ],
+      "steps": [
+        "24 DEC — Cut 2.3kg Maris Pipers into large uniform chunks. Parboil in well salted water until outer surface JUST softens (roughly 8–12min but size-dependent), drain thoroughly, STEAM-DRY for ~5–10min then shake to roughen a thick starchy outside, keeping centres intact.",
+        "DEFAULT TRIAL A (Mary Berry-style make-ahead): heat ~70ml of the TOTAL 160ml rapeseed oil in a wide tray; par-roast the roughed potatoes at 200–220°C for an estimated 25–35min until ONLY PALE GOLD. Cool rapidly in shallow single layer and refrigerate. Record how many pieces physically fit in the one tray.",
+        "ALTERNATIVE TEST B ONLY: parboil/steam-dry/roughen but CHILL WITHOUT part-roasting, then do one full roast on day. Compare B versus A during rehearsal; do not swap the menu plan without an oven-capacity trial. Kenji's tiny baking-soda addition is an OPTION for a dedicated test only (Maris Pipers may collapse); not a required ingredient.",
+        "25 DEC — For default A heat the other ~90ml oil (TOTAL 70+90=160ml, not 160ml twice) at the gas oven's shared ~200–220°C with a truly single-layer uncrowded tray. Add cold pre-roast potatoes CAREFULLY and crisp about 30–55min, rotating once/twice, until all are golden and piping hot. The 26–28cm pithivier must cook on the other shelf: verify both bases and brownings in a realistic trial.",
+        "Sprinkle 10g rosemary near end to prevent burning; season across both days from listed 18g salt. Record crunch immediately and after 5min on platter. Do not add a second potato tray if it jeopardises pastry."
+      ],
+      "checkpoints": [
+        "Oil allocation TOTAL 160ml: 70ml on 24 Dec + 90ml on 25 Dec",
+        "A half-roast/chill default; B parboil/chill alternative ONLY after trial",
+        "Steam-dry, roughen, one uncrowded tray for 2.3kg",
+        "Test gas oven alongside 70min pithivier at shared temperature",
+        "Record 5min after-service crispness"
+      ],
+      "allergens": [],
+      "notes": "2.3kg supplies ~255g raw weight per person alongside a large feast. Increasing to 2.7kg is optional ONLY if the actual tray has room for an uncrowded layer; two trays would collide with the pithivier in a two-shelf oven. CHEF TRIAL: Kenji rough starch crust versus Mary Berry/Oliver make-ahead styles. Compare A and B, actual oven shelf position and tray fit before selecting final technique.",
+      "optional": false
+    },
+    {
+      "id": "cabbage",
+      "name": "Spiced braised red cabbage",
+      "course": "Shared sides",
+      "station": "Multicooker",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 25,
+      "total": "90–120 min",
+      "makeAhead": "Cook and freeze 19–20 Dec",
+      "description": "Sweet-sour apple, juniper, vinegar and warming Christmas spice.",
+      "ingredients": [
+        {
+          "name": "Red cabbage",
+          "qty": 1200,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "Trimmed weight; may need more than one whole cabbage. Weigh raw shredded vegetable for 65g sugar/80ml vinegar ratio."
+        },
+        {
+          "name": "Apples",
+          "qty": 2,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Red onions",
+          "qty": 300,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Apple cider vinegar",
+          "qty": 80,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": "Start with 80ml and reserve ~30ml extra only if needed at final tasting."
+        },
+        {
+          "name": "Light brown sugar",
+          "qty": 65,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": "Start at 65g; balance with vinegar after reheating."
+        },
+        {
+          "name": "Juniper berries",
+          "qty": 8,
+          "unit": "whole",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Cinnamon stick",
+          "qty": 1,
+          "unit": "whole",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegan-labelled port",
+          "qty": 150,
+          "unit": "ml",
+          "aisle": "Drinks",
+          "optional": true,
+          "note": ""
+        }
+      ],
+      "steps": [
+        "19–20 DEC — Finely shred ~1.2kg TRIMMED red cabbage (weigh in grams), 2 apples and 300g red onions, 3–5mm even slices. The old 'one whole cabbage' was not a reproducible recipe amount.",
+        "Crush 8 juniper berries, add 1 cinnamon stick, 65g light brown sugar and 80ml cider vinegar to vegetables with OPTIONAL 150ml verified-vegan port. Cover and braise gently 90–120min until yielding and glossy, stirring and adding a splash of water only if catching.",
+        "Uncover to reduce excess liquid, remove cinnamon and visible spice fragments, taste for distinct SWEET-SOUR balance. Cool promptly, portion and freeze, noting actual cooked weight; do not automatically add the optional extra vinegar before tasting.",
+        "25 DEC — Thoroughly reheat fully thawed cabbage close to 14:20 service, provisionally ~13:30 in multicooker. Verify at least 63°C ACTUAL food temperature if holding warm and taste for final acid balance."
+      ],
+      "checkpoints": [
+        "Sweet/sour balance",
+        "Reheat thoroughly; avoid lukewarm hold",
+        "Multicooker model-specific hot hold",
+        "Weigh ~1.2kg trimmed cabbage; measure finished batch yield and hot-hold temperature"
+      ],
+      "allergens": [
+        "Sulphites (if port)"
+      ],
+      "notes": "Hot holding at ≥63°C must be verified in the actual multicooker. If this cannot be checked, time reheating nearer to plating and serve promptly. CHEF TRIAL: Delia-style slow covered cabbage with apple; measured trimmed cabbage mass replaces unscalable whole head.",
+      "optional": false
+    },
+    {
+      "id": "carrots",
+      "name": "Maple-orange glazed carrots",
+      "course": "Shared sides",
+      "station": "Gas hobs",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 25,
+      "total": "40 min",
+      "makeAhead": "Trim/blanch 24 Dec",
+      "description": "Glossy, bright and lightly caramelised.",
+      "ingredients": [
+        {
+          "name": "Carrots",
+          "qty": 1200,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Oranges",
+          "qty": 2,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Maple syrup",
+          "qty": 65,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Olive oil",
+          "qty": 35,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh thyme",
+          "qty": 10,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Apple cider vinegar",
+          "qty": 10,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": true,
+          "note": "Only to correct a too-sweet glaze, add 2–5ml at a time; may be omitted."
+        }
+      ],
+      "steps": [
+        "24 DEC — Trim and cut the 1.2kg carrots to uniform thickness; blanch just shy of tender (trial ~3–6min by thickness). Drain, steam-dry, rapidly chill without leaving in wet water.",
+        "25 DEC — Zest and squeeze the 2 oranges and MEASURE the juice. In a wide pan reduce the juice with 10g thyme, starting with only ~40ml of the listed 65ml maple syrup until lightly syrupy. Taste and increase towards 65ml ONLY if needed; don't automatically make a watery sugar glaze.",
+        "Add 35ml olive oil and carrots; roll and toss for an estimated 12–20min until thoroughly hot, glossy and tender with little free liquid. Season, add orange zest late and balance with OPTIONAL cider vinegar in 2–5ml increments if cloying (10ml maximum allowance). Reserve a lightly seasoned portion for children; log finished syrup and maple/vinegar quantities."
+      ],
+      "checkpoints": [
+        "Bright orange glaze without watery puddles; reduce first",
+        "Start ~40ml maple, add up to 65ml ONLY by taste",
+        "Acid correction 2–5ml optional listed cider vinegar; log amount",
+        "Carrots evenly blanched, thoroughly hot and tender"
+      ],
+      "allergens": [],
+      "notes": "CHEF TECHNIQUE TRIAL — Ottolenghi-inspired reduce-then-glaze, not his recipe. Measure orange juice, sweetness, maple 40–65ml, optional vinegar and pan time. Unverified in this kitchen.",
+      "optional": false
+    },
+    {
+      "id": "sprouts",
+      "name": "Charred sprouts, chestnuts & lemon",
+      "course": "Shared sides",
+      "station": "Gas hobs",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 35,
+      "total": "35–45min in actual wide pan; trial 3–4 batches",
+      "makeAhead": "Trim/blanch 24 Dec",
+      "description": "Crisp edges, fresh acid and sweet chestnuts.",
+      "ingredients": [
+        {
+          "name": "Brussels sprouts",
+          "qty": 1000,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Cooked chestnuts",
+          "qty": 200,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Lemon",
+          "qty": 2,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Olive oil",
+          "qty": 45,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Black pepper",
+          "qty": 5,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        }
+      ],
+      "steps": [
+        "24 DEC — Trim and halve 1kg sprouts. Blanch BRIEFLY (~1–2min trial), drain and spread on towels in one layer until exceptionally dry. Cool rapidly, refrigerate safely. Compare with raw halved sprouts during rehearsal if blanched sprouts fail to brown.",
+        "25 DEC ~13:40 — In a measured large wide frying pan heat small portions of total 45ml olive oil. Add sprouts CUT-SIDE DOWN in only ~250–330g uncrowded batches (3–4 depending on pan); leave undisturbed 4–6min to char, then turn briefly. Move completed batches to a warm DRY tray without a steaming lid. Record how long ALL batches actually take.",
+        "Warm 200g cooked chestnuts ~3–5min; return sprouts briefly to heat until all thoroughly hot. OFF heat finish with measured zest and juice from 2 lemons to taste, and 5g ground pepper. Keep lemon bright, not bitter.",
+        "PROVISIONAL 13:40–14:15 slot budgets 35min versus previous unrealistic 20min for one pan and 1kg. Peak 13:40–13:55 uses FOUR gas hobs: designate second cook or re-plan if the test proves slow. Never crowd the pan just to meet the clock."
+      ],
+      "checkpoints": [
+        "1kg sprouts must be DRY before pan; test raw-vs-blanched if watery",
+        "3–4 uncrowded batches of ~250–330g, log pan size and real minutes",
+        "Add chestnuts hot, lemon OFF the heat at service",
+        "13:40–14:15 trial; 4-hob peak needs a second cook",
+        "Crisp/charred edges without bulk steaming"
+      ],
+      "allergens": [],
+      "notes": "CHEF TRIAL: Ottolenghi's batch charring and lemon finish, NOT his separate slow stock-braised dish. 35min provisional; record batch count, heat, raw/blanched comparison and service temperature.",
+      "optional": false
+    },
+    {
+      "id": "cauliflower",
+      "name": "Roasted cauliflower with roasted-garlic miso sauce",
+      "course": "Shared sides",
+      "station": "Gas oven (24 Dec); hob (25 Dec)",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 65,
+      "total": "90 min",
+      "makeAhead": "Roast cauliflower and chill sauce separately on 24 Dec; finish 25 Dec",
+      "description": "A rich cauliflower-cheese spirit, entirely without dairy.",
+      "ingredients": [
+        {
+          "name": "Cauliflower",
+          "qty": 1,
+          "unit": "large",
+          "aisle": "Produce",
+          "optional": false,
+          "note": "Aim ~1.2–1.4kg whole / 850–950g edible florets."
+        },
+        {
+          "name": "Garlic",
+          "qty": 1,
+          "unit": "bulb",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Unsweetened oat milk",
+          "qty": 450,
+          "unit": "ml",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": "Start with ~350ml, add up to 450ml only to obtain spoon-coating sauce."
+        },
+        {
+          "name": "Raw cashews",
+          "qty": 140,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "White miso",
+          "qty": 22,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Nutritional yeast",
+          "qty": 50,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Dijon mustard",
+          "qty": 22,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Lemon",
+          "qty": 1,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Olive oil",
+          "qty": 35,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Sourdough breadcrumbs",
+          "qty": 90,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh sage",
+          "qty": 15,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        }
+      ],
+      "steps": [
+        "24 DEC — Roast a whole garlic bulb until soft. Soak 140g raw cashews as your blender needs. Trim ONE large cauliflower and WEIGH edible florets (provisionally ~850–950g). Roast uncrowded in 35ml olive oil ~220°C/Gas 7 for 25–35min until deeply coloured and almost tender; Roccbox is optional ONLY after a safe pan-fit trial. Cool promptly; refrigerate sauce separately.",
+        "Blend roasted garlic cloves, drained cashews, ~350ml of the listed 450ml unsweetened oat milk, 22g white miso, 50g nutritional yeast, 22g Dijon and 1 lemon. Add reserved oat milk GRADUALLY up to 450ml only for spoon-coating consistency. Record actual sauce ml and taste; store separately. Keep vegan/nut/soy/oat/mustard labels correct.",
+        "Toast 90g sourdough breadcrumbs separately with 15g fresh sage to crisp; cool and store completely dry, never in the sauce before serving.",
+        "25 DEC ~13:30 — ONE-HOB DEFAULT: warm ALL roasted florets in one genuinely wide vegan sauté pan; add only a spoonful of water and cover BRIEFLY to bring centre hot, then fully uncover and evaporate water. Stir in the cold prepared sauce ONLY for last few minutes, heating everything until steaming hot throughout. Sprinkle DRY crumbs at service so texture survives. This unmeasured one-pan approach gets 30min; test capacity.",
+        "ALTERNATIVE REHEARSAL ONLY: if an actually spare verified burner exists, separately reheat sauce and keep cauliflower dry/charred in the pan, spooning HOT sauce over at service. Do NOT introduce a fifth hob on Christmas Day to try it."
+      ],
+      "checkpoints": [
+        "Weigh edible cauliflower and finished sauce yield",
+        "Brown florets uncovered, refrigerate separate from cashew sauce",
+        "Single wide pan finish; uncover to dry before adding sauce at end",
+        "Crisp sage-sourdough crumbs ONLY at service",
+        "Two-pan sauce variant only if 4-hob test proves spare capacity",
+        "Allergens: cashew, soy, oats, mustard, gluten"
+      ],
+      "allergens": [
+        "Tree nuts",
+        "Soy",
+        "Oats",
+        "Mustard",
+        "Gluten"
+      ],
+      "notes": "Reducing oat milk from 750 to 450ml prevents thin sauce. A large sauté pan may require two batches; the equipment/schedule revision must reserve real hob space. The proposed stovetop finish has not yet been kitchen-tested. CHEF TRIAL: Meera Sodha-inspired soaked-cashew sauce and separated hard-roasted cauliflower; measure one-pan texture loss vs separate hot sauce, without exceeding four hobs.",
+      "optional": false
+    },
+    {
+      "id": "stuffing",
+      "name": "Crisp sage-and-onion stuffing balls",
+      "course": "Shared sides",
+      "station": "Gas oven (24 Dec); gas hob (25 Dec)",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 40,
+      "total": "60 min",
+      "makeAhead": "Bake 24 Dec",
+      "description": "Crisp individual portions, no animal fats or eggs.",
+      "ingredients": [
+        {
+          "name": "Fresh breadcrumbs",
+          "qty": 360,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Onions",
+          "qty": 450,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh sage",
+          "qty": 16,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegetable stock",
+          "qty": 220,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": "Use just enough to bind after adding flax gel; do not soak into mush."
+        },
+        {
+          "name": "Olive oil",
+          "qty": 75,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Ground nutmeg",
+          "qty": 2,
+          "unit": "g",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Ground flaxseed",
+          "qty": 15,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": "Mix with 45ml water to form an egg-free binder."
+        }
+      ],
+      "steps": [
+        "24 DEC — Sweat 450g finely diced onions (lighter than the former 550g) in some of 75ml olive oil until tender, slightly golden and NO longer watery. Cool fully. Finely chop 16g picked tender sage leaves; 24g is a separate strongly herbal comparison, not the baseline.",
+        "Hydrate 15g ground flaxseed in 45ml water for at least ~10min. Coarsely crumb 360g fresh VERIFIED-VEGAN bread without pulsing to paste. Mix with onions, sage, 2g nutmeg, flax and remaining oil. Add ~150–180ml of the listed 220ml VEGAN stock first, then more ONLY if the mixture needs binding; do not make mush. Season with salt/pepper.",
+        "Weigh batch and form 20–24 small balls (~40–55g each target), with minimal compression, then bake on parchment at ~200°C/Gas 6 for 20–25min until set and lightly crisp. Test one ball if it crumbles. Cool promptly and refrigerate.",
+        "25 DEC — Pan-fry previously cooked balls UNCOVERED in a thin film of vegan oil in a wide pan, turning ~12–20min, until crisp outside and steaming hot inside. Do not use covered steaming or an unreserved oven shelf. Evaluate sage strength alongside cabbage and pithivier."
+      ],
+      "checkpoints": [
+        "Coarse fresh vegan bread, not fine paste",
+        "450g onions fully dry and cooled; trial 16g vs prior 24g sage",
+        "Flax + 45ml water gels; add only as much of 220ml stock as necessary",
+        "20–24 small balls; weigh actual yield and centre texture",
+        "Pan re-crisp UNCOVERED; hot throughout"
+      ],
+      "allergens": [
+        "Gluten",
+        "Celery (check stock)"
+      ],
+      "notes": "CHEF TRIAL: Nigel Slater's bread texture and sage restraint, adapted vegan with flax. Record herb comparison, stock used, portion count, reheated crispness. Ingredient amounts provisional.",
+      "optional": false
+    },
+    {
+      "id": "alaska",
+      "name": "Chocolate-orange vegan baked Alaska",
+      "course": "Dessert",
+      "station": "Freezer + blowtorch",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 135,
+      "total": "Multi-stage/freezing; up to 60min fresh meringue slot on day is UNVERIFIED",
+      "makeAhead": "Build 21–22 Dec; freeze",
+      "description": "Chocolate sponge, orange curd, vegan ice cream, aquafaba Italian meringue and torch-side theatre.",
+      "ingredients": [
+        {
+          "name": "Vegan ice cream",
+          "qty": 1800,
+          "unit": "ml",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Plain flour",
+          "qty": 220,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Cocoa powder",
+          "qty": 45,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Caster sugar",
+          "qty": 610,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": "Allocated: 180g sponge, 100g orange curd, 330g Italian aquafaba meringue."
+        },
+        {
+          "name": "Plant milk",
+          "qty": 250,
+          "unit": "ml",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Neutral oil",
+          "qty": 95,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Oranges",
+          "qty": 4,
+          "unit": "whole",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Cornflour",
+          "qty": 28,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegan block butter",
+          "qty": 65,
+          "unit": "g",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Aquafaba",
+          "qty": 220,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": "220ml FINAL REDUCED, COLD chickpea liquid for two domes; can starting volume varies. Do NOT count 220ml before reduction."
+        },
+        {
+          "name": "Cream of tartar",
+          "qty": 2.5,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": "Provisional ~2.5g scaled closer to Prue Leith's 1/2 tsp for 150ml reduced aquafaba; trial actual foam stability before choosing."
+        },
+        {
+          "name": "Vegan dark chocolate",
+          "qty": 150,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": true,
+          "note": ""
+        },
+        {
+          "name": "Hazelnuts",
+          "qty": 150,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": true,
+          "note": ""
+        },
+        {
+          "name": "Caster sugar for optional praline",
+          "qty": 80,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": true,
+          "note": "For 150g hazelnuts."
+        },
+        {
+          "name": "Baking powder",
+          "qty": 8,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": "About 2 level tsp; check brand strength."
+        },
+        {
+          "name": "Bicarbonate of soda",
+          "qty": 2.5,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": "About 1/2 level tsp."
+        },
+        {
+          "name": "Apple cider vinegar",
+          "qty": 15,
+          "unit": "ml",
+          "aisle": "Cupboard & condiments",
+          "optional": false,
+          "note": "About 1 tbsp to react with bicarbonate."
+        },
+        {
+          "name": "Vegan vege-gel for meringue",
+          "qty": 9,
+          "unit": "g",
+          "aisle": "Bakery & dry goods",
+          "optional": false,
+          "note": "~9g derived from Prue Leith's 6.5g per 150ml reduced aquafaba, PROVISIONAL for 220ml; verify exact vegan product, hot-syrup activation and taste in advance."
+        },
+        {
+          "name": "Unsweetened oat cream for optional ganache",
+          "qty": 100,
+          "unit": "ml",
+          "aisle": "Chilled & frozen",
+          "optional": true,
+          "note": "Melt with 150g vegan chocolate."
+        }
+      ],
+      "steps": [
+        "SPONGE 19–20 DEC — For TWO thin ~18–20cm bases, mix 220g flour, 45g cocoa, 180g of the listed 610g caster sugar, 8g baking powder and 2.5g bicarbonate; whisk 250ml plant milk with 95ml neutral oil and 15ml apple cider vinegar. Combine just until smooth, bake ~180°C/Gas 4 for 22–28min until skewer-clean. Cool fully. Each base should project ~1–1.5cm outside its actual dome.",
+        "ORANGE CURD — Heat zest/juice of 4 oranges with 100g of the 610g sugar; whisk 28g cornflour with a little COLD orange juice first, then thicken on heat. Off heat whisk in 65g vegan block butter; cool rapidly until COLD and set. Spread only a very thin layer to avoid wet sponge and melting ice cream.",
+        "OPTIONAL GANACHE AND PRALINE — For ganache melt 150g verified-vegan dark chocolate with 100ml oat cream, cool and allow a THIN layer to SET on sponge before curd. For praline, caramelise an additional 80g caster sugar, coat 150g roasted hazelnuts, cool safely and crush; KEEP PRALINE SEPARATE from frozen Alaskas for guests with nut allergies.",
+        "MERINGUE SMALL TEST 12–13 DEC, not validated on the full batch — Collect liquid from enough chickpea cans, gently reduce to exactly 220ml FINAL liquid, CHILL completely. Whip with provisional 2.5g cream of tartar to soft peaks. In a separate pan combine 330g caster sugar (remaining of 610g), ~100ml water and approximately 9g of the SPECIFIC brand of vegan vege-gel proven in rehearsal. Follow that product's activation instructions, dissolve completely and heat syrup to 121°C with a calibrated sugar thermometer. With a stand mixer running, drizzle hot syrup in a THIN stream down bowl side clear of whisk, then continue whisking until thick, glossy, ROOM-temperature and pipeable. Serious hot-syrup burn risk. This is adapted from Prue Leith's 150ml reduced aquafaba/225g sugar/6.5g gel formulation; ratio scaling does NOT establish product compatibility.",
+        "96-HOUR TEST — Coat a SMALL fully frozen trial ice-cream/sponge dome in the cooled trial meringue, sealing every gap. Freeze in protective rigid container for at least 96 hours, then torch carefully on a heatproof board and inspect weeping, collapse, cracks, off flavour and melting. If the identical formula, brand and freezer storage do not PASS this test, leave final domes UNCOATED until Christmas Day and make fresh meringue near service.",
+        "ASSEMBLY 21–22 DEC — Line two 16–18cm bowl/hemisphere moulds holding roughly 900–1000ml each. Pack ~900ml of the listed 1800ml vegan ice cream into each, freeze SOLID, then place on fully cooled sponge with ONLY thin cold curd and optional previously set ganache. Freeze each uncoated dome airtight in a rigid box. Pre-coat only AFTER the actual 96-hour test passed and repeat with exact formula.",
+        "25 DEC — If uncoated, begin the TESTED fresh Italian meringue by 14:50 (provisional 60min slot includes whipping, syrup, cooling and coating BOTH domes; log actual time). Have stand mixer, exact gel, calibrated thermometer, piping bag, torch and heat-safe board ready. If pre-coated, confirm frozen coating survived storage. At 16:00 torch briefly from HARD FROZEN on a heatproof board, never on cold glass; keep second dome frozen until needed, slice with warm dry knife and serve immediately. If meringue/ice cream is unstable, omit torch theatre and serve safe un-torched chocolate-orange frozen dessert."
+      ],
+      "checkpoints": [
+        "220ml aquafaba means REDUCED final volume; use enough cans and chill",
+        "610g sugar split: 180g sponge + 100g curd + 330g caster sugar Italian syrup; +80g extra praline only",
+        "Trial ~2.5g cream tartar, ~9g gel exact brand at VERIFIED 121°C syrup",
+        "Stand mixer, thermometer, heatproof torch board and two ~900ml moulds ready",
+        "96-hour freeze and torch trial needed before pre-coating; otherwise fresh at 14:50",
+        "Trial fresh full TWO-dome coating in <=60min; fall back to un-torched frozen dessert if unstable",
+        "Separate optional nut praline, clearly verify all vegan labels"
+      ],
+      "allergens": [
+        "Gluten",
+        "Soy (brand dependent)",
+        "Oats (brand dependent)",
+        "Tree nuts (optional)"
+      ],
+      "notes": "CHEF TECHNIQUE TESTBED — Prue Leith's vegan Bake Off Italian aquafaba meringue inspires this. Approx. 220ml/330g/9g is an UNPROVEN extrapolation from her 150ml/225g/6.5g formula. Mandatory small trial of gel brand AND 96-hour frozen torch; record actual start-to-coating time for two domes. Default is freeze bare domes and make fresh meringue on day. 2.5g cream of tartar is a PROVISIONAL revised dose.",
+      "optional": false
+    },
+    {
+      "id": "pave",
+      "name": "Pressed potato pavé (optional)",
+      "course": "Optional flourish",
+      "station": "Gas oven (23 Dec) + hob (25 Dec optional)",
+      "vegan": true,
+      "serves": 9,
+      "activeMin": 50,
+      "total": "150–200 min + overnight pressing (optional)",
+      "makeAhead": "Press 23 Dec",
+      "description": "A restaurant-style flourish, but the first item to drop if timing is tight.",
+      "ingredients": [
+        {
+          "name": "Maris Piper potatoes",
+          "qty": 1000,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Vegan block butter",
+          "qty": 120,
+          "unit": "g",
+          "aisle": "Chilled & frozen",
+          "optional": false,
+          "note": ""
+        },
+        {
+          "name": "Fresh thyme",
+          "qty": 8,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        }
+      ],
+      "steps": [
+        "23 DEC OPTIONAL — Peel 1kg Maris Piper potatoes; use mandoline HAND GUARD to slice evenly ~1–1.5mm. Melt ~110g of the listed 120g VEGAN block butter, reserving about 10g for final browning. Coat thin slices lightly with fat, 8g thyme and salt to taste; layer very evenly in lined loaf tin, recording inside tin dimensions and filled DEPTH.",
+        "Cover tightly and bake in gas oven around 180°C until a skewer passes through the DEEPEST centre with no resistance, starting checks around 90min: a deep loaf may take 90–120min OR MORE. Do not stop because a thinner chef's version finished earlier. Cool promptly safely; press under an even weight in refrigerator overnight for at least 12 hours.",
+        "Unmould when cold, cut even blocks and test frying in saved vegan fat until all faces crisp without separating layers. Record cut yield and whether blocks hold together.",
+        "CHRISTMAS DAY DECISION — Omit from the default 14:20 feast; the main roast potatoes and sides take priority. An optional AFTER-MAIN 14:35–14:55 extra is possible ONLY if every critical vegan dish was served, a burner is genuinely free and a test confirmed crisping works. Never displace sprouts, stuffing, sauces or pithivier."
+      ],
+      "checkpoints": [
+        "Mandoline guard; uniform ~1–1.5mm thin slices",
+        "Measure actual loaf tin/depth and wait until centre fully cooked",
+        "Press evenly in fridge overnight >=12h",
+        "Optional AFTER main only; default omit from 14:20"
+      ],
+      "allergens": [],
+      "notes": "CHEF TRIAL: Thomas Keller's deeply cooked, chilled, weighted and pan-crisped pavé principles, entirely vegan. Tin geometry and times unvalidated. Default omitted to preserve four burners.",
+      "optional": true
+    }
+  ],
+  "stages": [
+    {
+      "id": "s0",
+      "date": "12–13 Dec",
+      "name": "Technique rehearsal",
+      "category": "Practice",
+      "tasks": [
+        {
+          "id": "t0-0",
+          "title": "Order an even skin-on pork belly and confirm the collection date",
+          "recipe": "porchetta"
+        },
+        {
+          "id": "t0-1",
+          "title": "Rehearse Weber indirect charcoal control, record fuel and vents",
+          "recipe": "porchetta"
+        },
+        {
+          "id": "t0-2",
+          "title": "Pithivier trial: weigh dry cooked filling, mock 21–22cm dome and clean 3cm rim; check two chills and baked underside",
+          "recipe": "pithivier"
+        },
+        {
+          "id": "t0-3",
+          "title": "Trial chosen aquafaba/vege-gel 121°C meringue, full two-dome timing and 96-hour frozen torch test",
+          "recipe": "alaska"
+        },
+        {
+          "id": "t0-4",
+          "title": "Trial 1kg sprouts in batches and separately reheated cauliflower; verify gas hob space",
+          "recipe": "cauliflower"
+        },
+        {
+          "id": "t0-5",
+          "title": "Check fridge/freezer space, oven shelves and dual probes",
+          "recipe": "porchetta"
+        },
+        {
+          "id": "t0-6",
+          "title": "Run dual gas-oven potato+pithivier trial, compare potato method A/B; trial 11:50 frozen palmiers refresh",
+          "recipe": "roasties"
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "date": "19–20 Dec",
+      "name": "Batch cooking",
+      "category": "Freeze",
+      "tasks": [
+        {
+          "id": "t1-0",
+          "title": "Cook, cool and freeze braised cabbage",
+          "recipe": "cabbage"
+        },
+        {
+          "id": "t1-1",
+          "title": "Make velouté, cool and freeze without cream",
+          "recipe": "soup"
+        },
+        {
+          "id": "t1-2",
+          "title": "Make vegan porcini sauce base; freeze clearly labelled",
+          "recipe": "porcini"
+        },
+        {
+          "id": "t1-3",
+          "title": "Make separate cider/apple pork jus base and freeze",
+          "recipe": "pork-jus"
+        },
+        {
+          "id": "t1-4",
+          "title": "Bake and freeze savoury palmiers",
+          "recipe": "palmiers"
+        },
+        {
+          "id": "t1-5",
+          "title": "Bake chocolate sponge, prepare orange curd and praline",
+          "recipe": "alaska"
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "date": "21–22 Dec",
+      "name": "Dessert workshop",
+      "category": "Freeze",
+      "tasks": [
+        {
+          "id": "t2-0",
+          "title": "Assemble two baked Alaska domes and freeze hard",
+          "recipe": "alaska"
+        },
+        {
+          "id": "t2-1",
+          "title": "Coat with tested meringue and refreeze, OR reserve for on-day whipping",
+          "recipe": "alaska"
+        },
+        {
+          "id": "t2-2",
+          "title": "Check vegan labels on wine, ice cream, chocolate, pastry and stocks",
+          "recipe": "pithivier"
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "date": "23 Dec",
+      "name": "Pithivier filling & optional extras",
+      "category": "Chill",
+      "tasks": [
+        {
+          "id": "t3-0",
+          "title": "After 17:00 cook and thoroughly dry mushroom filling; cool promptly and refrigerate (<5°C); record time for 25 Dec use",
+          "recipe": "pithivier"
+        },
+        {
+          "id": "t3-1",
+          "title": "Prepare optional pavé, press overnight if desired",
+          "recipe": "pave"
+        },
+        {
+          "id": "t3-2",
+          "title": "Check labelled frozen portions and fridge capacity; confirm individual thaw-transfer plans (do not assume all need 23 Dec)",
+          "recipe": "porcini"
+        },
+        {
+          "id": "t3-3",
+          "title": "Collect even skin-on belly; on 23 Dec evening roll, tie and salt; dry uncovered on rack on bottom fridge shelf",
+          "recipe": "porchetta"
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "date": "24 Dec",
+      "name": "Finish almost everything",
+      "category": "Chill",
+      "tasks": [
+        {
+          "id": "t4-0",
+          "title": "Weigh and fit LOW dry pithivier filling, reserve surplus; assemble, chill, score/vent and re-chill",
+          "recipe": "pithivier"
+        },
+        {
+          "id": "t4-1",
+          "title": "Parboil/steam-dry/roughen 2.3kg potatoes; half-roast in ~70ml of TOTAL 160ml oil, cool and chill (variant A)",
+          "recipe": "roasties"
+        },
+        {
+          "id": "t4-2",
+          "title": "Roast cauliflower florets in gas oven; cool rapidly, keep miso sauce and crumb topping separate (Roccbox only if tested)",
+          "recipe": "cauliflower"
+        },
+        {
+          "id": "t4-3",
+          "title": "Bake 20–24 coarse-crumb, lower-sage vegan stuffing balls with hydrated flax; cool and chill",
+          "recipe": "stuffing"
+        },
+        {
+          "id": "t4-4",
+          "title": "Blanch/prep carrots and halved sprouts; DRY sprouts thoroughly before chilling",
+          "recipe": "sprouts"
+        },
+        {
+          "id": "t4-5",
+          "title": "Check pork skin is drying well, meat is safely segregated and fridge remains below 5°C; do not re-roll",
+          "recipe": "porchetta"
+        },
+        {
+          "id": "t4-6",
+          "title": "Lay out dedicated vegan and meat boards, knives and labelled platters; reserve a helper for outdoor crackling checks",
+          "recipe": "pithivier"
+        },
+        {
+          "id": "t4-7",
+          "title": "Set up Weber one-side charcoal, drip pan, clean probes, fruitwood and outdoor chimney; check fuel reserve",
+          "recipe": "porchetta"
+        }
+      ]
+    },
+    {
+      "id": "s5",
+      "date": "25 Dec",
+      "name": "Service day",
+      "category": "Serve",
+      "tasks": [
+        {
+          "id": "t5-0",
+          "title": "Light, stabilise and monitor the Weber fire",
+          "recipe": "porchetta"
+        },
+        {
+          "id": "t5-1",
+          "title": "Reheat cabbage and velouté thoroughly",
+          "recipe": "soup"
+        },
+        {
+          "id": "t5-2",
+          "title": "Bake pithivier and finish potatoes in oven",
+          "recipe": "pithivier"
+        },
+        {
+          "id": "t5-3",
+          "title": "With second cook during four-hob peak, finish sides and separate vegan and meat sauces",
+          "recipe": "porcini"
+        },
+        {
+          "id": "t5-4",
+          "title": "Probe and rest porchetta; carve on separate board",
+          "recipe": "porchetta"
+        },
+        {
+          "id": "t5-5",
+          "title": "Make tested meringue from 14:50 for both domes, or verify 96-hour pre-coating; torch 16:00 only when stable",
+          "recipe": "alaska"
+        }
+      ]
+    }
+  ],
+  "schedule": [
+    {
+      "id": "e0",
+      "time": "07:45",
+      "station": "Weber",
+      "title": "Stabilise Weber one-sided indirect fire. One-side indirect zone set, drip pan protected from fat flare-ups, grate probe stable around a provisional 160–180°C. Do not assume the lid thermometer matches grate temperature.",
+      "recipe": "porchetta",
+      "priority": "critical",
+      "taskId": "weber-light",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e1",
+      "time": "08:15",
+      "station": "Weber",
+      "title": "Roast and probe porchetta. Confirm the rolled pork's FSA safe core/time independently AND assess tender-probe resistance before switching to finishing heat. If not tender, continue indirect cooking; pork may be served late.",
+      "recipe": "porchetta",
+      "priority": "critical",
+      "taskId": "porchetta-roast",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e2",
+      "time": "09:15",
+      "station": "Outdoor prep",
+      "title": "Check Weber grate and pork core (1 of 3). Log actual grate heat, pork core, fire steadiness and drip-pan condition; adjust vents or carefully rotate if needed.",
+      "recipe": "porchetta",
+      "priority": "checkpoint",
+      "taskId": "weber-check",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e-task-weber-check-mid",
+      "time": "10:15",
+      "station": "Outdoor prep",
+      "title": "Check Weber grate and pork core (2 of 3). Log actual grate/core temperature and burn rate; adjust vents or add ALREADY LIT fuel if necessary. Check for a safe drip pan and unwanted flames.",
+      "recipe": "porchetta",
+      "priority": "checkpoint",
+      "taskId": "weber-check-mid",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e-task-weber-check-late",
+      "time": "11:15",
+      "station": "Outdoor prep",
+      "title": "Check Weber grate and pork core (3 of 3). Log actual grate/core temperature and burn rate; adjust vents or add ALREADY LIT fuel if necessary. Check for a safe drip pan and unwanted flames.",
+      "recipe": "porchetta",
+      "priority": "checkpoint",
+      "taskId": "weber-check-late",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e-task-palmiers-refresh",
+      "time": "11:50",
+      "station": "Gas oven",
+      "title": "Re-crisp previously baked frozen palmiers and rack-cool. Trial ~170–180°C for 8–12min; oven CLEAR by 12:15 for pithivier preheat. If unavailable, tested fully defrosted room-temperature fallback.",
+      "recipe": "palmiers",
+      "priority": "checkpoint",
+      "taskId": "palmiers-refresh",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-oven-preheat",
+      "time": "12:15",
+      "station": "Gas oven",
+      "title": "Preheat gas oven and heavy tray. Gas oven and heavy pastry tray have actually reached the trialled ~200°C setting; oven is free of previous dishes.",
+      "recipe": "pithivier",
+      "priority": "checkpoint",
+      "taskId": "oven-preheat",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-weber-fuel",
+      "time": "12:20",
+      "station": "Outdoor prep",
+      "title": "Assess pork tenderness and prepare lit crackling fuel, only if close to done. Probe tender end-point first; if nearing ready, light enough fully lit coals for indirect 230–260°C as measured. Chimney quantity depends on actual temperature and fire; do not auto-dump a full load.",
+      "recipe": "porchetta",
+      "priority": "checkpoint",
+      "taskId": "weber-fuel",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e4",
+      "time": "12:30",
+      "station": "Table",
+      "title": "Serve crisp palmiers and well-balanced clementine fizz",
+      "recipe": "palmiers",
+      "priority": "serve",
+      "taskId": "welcome",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-soup-reheat",
+      "time": "12:45",
+      "station": "Gas hobs",
+      "title": "Reheat velouté. Fully thawed velouté stirred until steaming hot throughout, oat cream incorporated; start garnishing for 13:15.",
+      "recipe": "soup",
+      "priority": "checkpoint",
+      "taskId": "soup-reheat",
+      "anchor": "service"
+    },
+    {
+      "id": "e6",
+      "time": "12:55",
+      "station": "Gas oven",
+      "title": "Bake cold, properly filled vegan pithivier on hot heavy sheet",
+      "recipe": "pithivier",
+      "priority": "critical",
+      "taskId": "pie-bake",
+      "anchor": "service"
+    },
+    {
+      "id": "e5",
+      "time": "13:00",
+      "station": "Outdoor prep",
+      "title": "If pork is tender, supervise high-heat indirect crackling. After safe core/time and tenderness have actually been verified, use measured, controlled INDIRECT high heat to crisp the skin; 13:00–13:25 is only the contingency slot. If meat is late, continue roasting and defer the pork; log crackling as skipped/not required only when physically checked.",
+      "recipe": "porchetta",
+      "priority": "checkpoint",
+      "taskId": "weber-finish-check",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e8",
+      "time": "13:10",
+      "station": "Gas oven",
+      "title": "Finish roast potatoes in the remaining ~90ml oil; inspect shared oven",
+      "recipe": "roasties",
+      "priority": "critical",
+      "taskId": "roasties-crisp",
+      "anchor": "service"
+    },
+    {
+      "id": "e7",
+      "time": "13:15",
+      "station": "Table",
+      "title": "Serve velouté starter. Starter served with vegan toppings and separate optional hazelnuts.",
+      "recipe": "soup",
+      "priority": "serve",
+      "taskId": "soup-serve",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-pork-rest",
+      "time": "13:25",
+      "station": "Meat station",
+      "title": "Rest cooked porchetta, skin uncovered. Rest only after safe, tender pork is off the fire; aim for 20–40 minutes on a clean meat-only rack, without trapping steam. If ready early, monitor food temperatures and use a verified safe holding plan, not a fixed 65-minute unmonitored counter rest. If late, serve meat separately.",
+      "recipe": "porchetta",
+      "priority": "critical",
+      "taskId": "pork-rest",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e3",
+      "time": "13:30",
+      "station": "Multicooker",
+      "title": "Reheat braised red cabbage. Fully thawed cabbage steaming hot through; if held to 14:20, verify hot holding at or above 63°C in the actual multicooker.",
+      "recipe": "cabbage",
+      "priority": "checkpoint",
+      "taskId": "cabbage-reheat",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-cauliflower-warm",
+      "time": "13:30",
+      "station": "Gas hobs",
+      "title": "Reheat roasted cauliflower; add hot cashew sauce at end, crumbs at table",
+      "recipe": "cauliflower",
+      "priority": "checkpoint",
+      "taskId": "cauliflower-warm",
+      "anchor": "service"
+    },
+    {
+      "id": "e10",
+      "time": "13:35",
+      "station": "Gas hobs",
+      "title": "Refresh vegan stuffing balls. 20–24 vegan flax-bound balls reheated uncovered in oil, crisp and hot at centre; verify holding if kept before 14:20.",
+      "recipe": "stuffing",
+      "priority": "checkpoint",
+      "taskId": "stuffing-refresh",
+      "anchor": "service"
+    },
+    {
+      "id": "e9",
+      "time": "13:40",
+      "station": "Gas hobs",
+      "title": "Glaze maple-orange carrots. Blanched carrots glossy, hot and tender; if finished early cover in a preheated dish and check still hot before serving.",
+      "recipe": "carrots",
+      "priority": "checkpoint",
+      "taskId": "carrots-glaze",
+      "anchor": "service"
+    },
+    {
+      "id": "e11",
+      "time": "13:40",
+      "station": "Gas hobs",
+      "title": "Char 1kg sprouts in uncrowded batches; add hot chestnuts and lemon",
+      "recipe": "sprouts",
+      "priority": "checkpoint",
+      "taskId": "sprouts-char",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-meat-jus",
+      "time": "14:00",
+      "station": "Gas hobs",
+      "title": "Reheat separate pork jus. Fully thawed pork jus steaming hot in meat-only pan; ladle never used for vegan gravy.",
+      "recipe": "pork-jus",
+      "priority": "checkpoint",
+      "taskId": "meat-jus",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-vegan-sauce",
+      "time": "14:00",
+      "station": "Gas hobs",
+      "title": "Reheat and finish porcini sauce. Fully thawed porcini sauce reduced if required, whisked glossy and steaming hot in vegan-only saucepan.",
+      "recipe": "porcini",
+      "priority": "checkpoint",
+      "taskId": "vegan-sauce",
+      "anchor": "service"
+    },
+    {
+      "id": "e12",
+      "time": "14:05",
+      "station": "Table",
+      "title": "Rest and check pithivier before carving. Pithivier has rested ~10min, base checked and vegan servings ready to cut; do NOT carve pork at the same station.",
+      "recipe": "pithivier",
+      "priority": "checkpoint",
+      "taskId": "pie-rest",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-pork-carve",
+      "time": "14:05",
+      "station": "Meat station",
+      "title": "Carve porchetta separately just before service. At about 14:05–14:10 carve on a dedicated meat-only board onto a separate warm platter. If the pork has not reached safe tender readiness, serve it later; vegan main remains on time.",
+      "recipe": "porchetta",
+      "priority": "critical",
+      "taskId": "pork-carve",
+      "anchor": "fixed"
+    },
+    {
+      "id": "e13",
+      "time": "14:20",
+      "station": "Table",
+      "title": "Serve the winter feast. Pithivier and every vegan side plated and hot; serve three vegan adults first. Pork and jus are separate and may follow later if still cooking.",
+      "recipe": "pithivier",
+      "priority": "serve",
+      "taskId": "main-serve",
+      "anchor": "service"
+    },
+    {
+      "id": "e-task-alaska-meringue",
+      "time": "14:50",
+      "station": "Dessert bench",
+      "title": "Make proven fresh Alaska meringue for two domes (or check tested coating)",
+      "recipe": "alaska",
+      "priority": "critical",
+      "taskId": "alaska-meringue",
+      "anchor": "service"
+    },
+    {
+      "id": "e14",
+      "time": "16:00",
+      "station": "Table",
+      "title": "Torch only stable, hard-frozen Alaska domes; otherwise serve frozen dessert un-torched",
+      "recipe": "alaska",
+      "priority": "serve",
+      "taskId": "alaska-finish",
+      "anchor": "service"
+    }
+  ],
+  "stations": [
+    {
+      "name": "Weber Master-Touch",
+      "role": "Porchetta only · indirect charcoal",
+      "icon": "fire"
+    },
+    {
+      "name": "Gas oven",
+      "role": "25 Dec: pithivier lower / potatoes upper (check actual trays)",
+      "icon": "oven"
+    },
+    {
+      "name": "Roccbox",
+      "role": "Optional technique only · not needed for 9-portion cauliflower",
+      "icon": "flame"
+    },
+    {
+      "name": "Multicooker",
+      "role": "Reheat cabbage nearer service; verify measured hot holding",
+      "icon": "pot"
+    },
+    {
+      "name": "Gas hobs",
+      "role": "Cauliflower, stuffing, carrots, sprouts and separate saucepans",
+      "icon": "hob"
+    }
+  ],
+  "warnings": [
+    "The entire shared menu is vegan; pork and its jus are handled separately.",
+    "Temperature, food probe and safe hot-holding rules always override suggested service timings.",
+    "Check personal allergens with guests: celery, nuts, soy, gluten, oats and mustard feature in the menu.",
+    "Literature-backed timings are planning ranges. Cauliflower one-pan finish, 2.3kg potato tray fit and multicooker hot hold require confirmation.",
+    "CHEF TESTBED 2.2.1: recipe method/quantity improvements are provisional and need real kitchen measurements before being treated as tested timings.",
+    "13:40–13:55 requires FOUR simultaneous gas hobs for cauliflower, stuffing, carrots and sprouts; plan a second cook, test all pan sizes and omit optional pavé.",
+    "Alaska: exact gel product and 96-hour frozen coating remain unverified; 14:50–15:50 meringue slot is a trial estimate, and an un-torched frozen dessert is the safe fallback."
+  ],
+  "equipmentCapacity": {
+    "Gas oven": 2,
+    "Gas hobs": 4,
+    "Weber": 1,
+    "Multicooker": 1,
+    "Meat station": 1
+  },
+  "cookingWindows": [
+    {
+      "id": "pork",
+      "name": "Porchetta · indirect roast + conditional crackle",
+      "recipe": "porchetta",
+      "taskId": "porchetta-roast",
+      "start": "08:15",
+      "end": "13:00",
+      "station": "Weber",
+      "options": [
+        "Weber"
+      ],
+      "note": "One-side fire 160–180°C; 85–88°C tenderness is a trial target, not readiness guarantee. Crackling conditional at end.",
+      "anchor": "fixed"
+    },
+    {
+      "id": "cabbage",
+      "name": "Braised cabbage · reheat",
+      "recipe": "cabbage",
+      "taskId": "cabbage-reheat",
+      "start": "13:30",
+      "end": "14:05",
+      "station": "Multicooker",
+      "options": [
+        "Multicooker",
+        "Gas hobs"
+      ],
+      "note": "Multicooker must be validated if holding warm at ≥63°C.",
+      "anchor": "service"
+    },
+    {
+      "id": "soup",
+      "name": "Velouté · reheat",
+      "recipe": "soup",
+      "taskId": "soup-reheat",
+      "start": "12:45",
+      "end": "13:10",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs",
+        "Multicooker"
+      ],
+      "note": "Reheat fully thawed soup stirring; check steaming centre.",
+      "anchor": "service"
+    },
+    {
+      "id": "pie",
+      "name": "Vegan pithivier · bake",
+      "recipe": "pithivier",
+      "taskId": "pie-bake",
+      "start": "12:55",
+      "end": "14:05",
+      "station": "Gas oven",
+      "options": [
+        "Gas oven"
+      ],
+      "note": "Gas oven lower/middle shelf; preheated heavy sheet.",
+      "anchor": "service"
+    },
+    {
+      "id": "roasties",
+      "name": "Roast potatoes · crisp",
+      "recipe": "roasties",
+      "taskId": "roasties-crisp",
+      "start": "13:10",
+      "end": "14:00",
+      "station": "Gas oven",
+      "options": [
+        "Gas oven"
+      ],
+      "note": "Top shelf, single uncrowded tray if practical.",
+      "anchor": "service"
+    },
+    {
+      "id": "cauliflower",
+      "name": "Roasted cauliflower · reheat",
+      "recipe": "cauliflower",
+      "taskId": "cauliflower-warm",
+      "start": "13:30",
+      "end": "14:00",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs"
+      ],
+      "note": "One wide sauté pan, sauce combined late if second saucepan unavailable; method unverified.",
+      "anchor": "service"
+    },
+    {
+      "id": "carrots",
+      "name": "Maple-orange carrots",
+      "recipe": "carrots",
+      "taskId": "carrots-glaze",
+      "start": "13:40",
+      "end": "14:00",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs"
+      ],
+      "note": "Finish ~14:00; verify hot before serving.",
+      "anchor": "service"
+    },
+    {
+      "id": "stuffing",
+      "name": "Stuffing balls · uncovered pan finish",
+      "recipe": "stuffing",
+      "taskId": "stuffing-refresh",
+      "start": "13:35",
+      "end": "13:55",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs",
+        "Gas oven"
+      ],
+      "note": "Gas hob default; covered steaming is not the crisp finish.",
+      "anchor": "service"
+    },
+    {
+      "id": "sprouts",
+      "name": "Sprouts · char and finish",
+      "recipe": "sprouts",
+      "taskId": "sprouts-char",
+      "start": "13:40",
+      "end": "14:15",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs"
+      ],
+      "note": "35-minute provisional 3–4-batch trial in wide pan; at 13:40–13:55 four hobs are occupied, so arrange second cook.",
+      "anchor": "service"
+    },
+    {
+      "id": "vegan-sauce",
+      "name": "Porcini sauce · own saucepan",
+      "recipe": "porcini",
+      "taskId": "vegan-sauce",
+      "start": "14:00",
+      "end": "14:15",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs"
+      ],
+      "note": "Vegan-only utensils.",
+      "anchor": "service"
+    },
+    {
+      "id": "meat-jus",
+      "name": "Pork jus · separate saucepan",
+      "recipe": "pork-jus",
+      "taskId": "meat-jus",
+      "start": "14:00",
+      "end": "14:15",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs"
+      ],
+      "note": "Dedicated meat saucepan; do not combine with vegan sauce.",
+      "anchor": "service"
+    },
+    {
+      "id": "pave",
+      "name": "Optional potato pavé · sear",
+      "recipe": "pave",
+      "start": "14:35",
+      "end": "14:55",
+      "station": "Gas hobs",
+      "options": [
+        "Gas hobs"
+      ],
+      "optional": true,
+      "note": "Default OMIT from 14:20 feast; optional only AFTER main and if a hob is genuinely free."
+    },
+    {
+      "id": "palmiers",
+      "name": "Palmiers · re-crisp before pie preheat",
+      "recipe": "palmiers",
+      "taskId": "palmiers-refresh",
+      "start": "11:50",
+      "end": "12:05",
+      "station": "Gas oven",
+      "options": [
+        "Gas oven"
+      ],
+      "note": "Trial 8–12min baked-from-frozen refresh then cool on rack; must free oven by 12:15. Tested fully thawed fallback.",
+      "anchor": "service"
+    }
+  ],
+  "freezerPolicies": [
+    {
+      "recipeId": "soup",
+      "mode": "thaw_then_reheat",
+      "portionAdvice": "Shallow, labelled portions; reheat stirring on hob until steaming hot throughout.",
+      "reheatStation": "Gas hobs",
+      "methodVerified": false,
+      "sourceReviewDate": "2026-11-03",
+      "manualConfirmation": true,
+      "thawDurationHours": null,
+      "guidance": "Confirm the actual labelled batch, the fully thawed centre, and safe reheating method. Timings must come from a rehearsal.",
+      "freezerToFinish": false,
+      "reheatOnce": true
+    },
+    {
+      "recipeId": "cabbage",
+      "mode": "thaw_then_reheat",
+      "portionAdvice": "Small shallow labelled containers; reheat thoroughly on hob or verified multicooker setting.",
+      "reheatStation": "Gas hobs",
+      "methodVerified": false,
+      "sourceReviewDate": "2026-11-03",
+      "manualConfirmation": true,
+      "thawDurationHours": null,
+      "guidance": "Confirm the actual labelled batch, the fully thawed centre, and safe reheating method. Timings must come from a rehearsal.",
+      "freezerToFinish": false,
+      "reheatOnce": true
+    },
+    {
+      "recipeId": "porcini",
+      "mode": "thaw_then_reheat",
+      "portionAdvice": "Small sealed labelled vegan portions; finish using separate vegan saucepan.",
+      "reheatStation": "Gas hobs",
+      "methodVerified": false,
+      "sourceReviewDate": "2026-11-03",
+      "manualConfirmation": true,
+      "thawDurationHours": null,
+      "guidance": "Confirm the actual labelled batch, the fully thawed centre, and safe reheating method. Timings must come from a rehearsal.",
+      "freezerToFinish": false,
+      "reheatOnce": true
+    },
+    {
+      "recipeId": "pork-jus",
+      "mode": "thaw_then_reheat",
+      "portionAdvice": "Clearly labelled separate MEAT batch; dedicated saucepan and ladle.",
+      "reheatStation": "Gas hobs",
+      "methodVerified": false,
+      "sourceReviewDate": "2026-11-03",
+      "manualConfirmation": true,
+      "thawDurationHours": null,
+      "guidance": "Confirm the actual labelled batch, the fully thawed centre, and safe reheating method. Timings must come from a rehearsal.",
+      "freezerToFinish": false,
+      "reheatOnce": true
+    },
+    {
+      "recipeId": "palmiers",
+      "mode": "frozen_then_refresh",
+      "portionAdvice": "Fully baked and cool pastry; reheating directly from frozen must be tested with the actual oven.",
+      "reheatStation": "Gas oven",
+      "methodVerified": false,
+      "sourceReviewDate": "2026-11-03",
+      "manualConfirmation": true,
+      "thawDurationHours": null,
+      "guidance": "Confirm the actual labelled batch, the fully thawed centre, and safe reheating method. Timings must come from a rehearsal.",
+      "freezerToFinish": false,
+      "reheatOnce": false
+    },
+    {
+      "recipeId": "alaska",
+      "mode": "keep_frozen_until_serving",
+      "portionAdvice": "Remain frozen solid; only torch meringue immediately before service.",
+      "reheatStation": "Dessert",
+      "methodVerified": false,
+      "sourceReviewDate": "2026-11-03",
+      "manualConfirmation": true,
+      "thawDurationHours": null,
+      "guidance": "Confirm the actual labelled batch, the fully thawed centre, and safe reheating method. Timings must come from a rehearsal.",
+      "freezerToFinish": true,
+      "reheatOnce": false
+    }
+  ],
+  "executionTasks": [
+    {
+      "id": "weber-light",
+      "title": "Stabilise Weber one-sided indirect fire",
+      "recipeId": "porchetta",
+      "plannedStart": "07:45",
+      "durationMin": 30,
+      "station": "Weber",
+      "doneWhen": "One-side indirect zone set, drip pan protected from fat flare-ups, grate probe stable around a provisional 160–180°C. Do not assume the lid thermometer matches grate temperature.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "deadlineOffsetMin": -335,
+      "timingEvidence": {
+        "minMinutes": 25,
+        "maxMinutes": 55,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "CLARKE-LIVE",
+          "WEBER-SNAKE",
+          "WEBER-BELLY"
+        ],
+        "assumption": "Set-up and chimney-light time is provisional; cold windy conditions alter stabilisation.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "porchetta-roast",
+      "title": "Roast and probe porchetta",
+      "recipeId": "porchetta",
+      "plannedStart": "08:15",
+      "durationMin": 285,
+      "station": "Weber",
+      "doneWhen": "Confirm the rolled pork's FSA safe core/time independently AND assess tender-probe resistance before switching to finishing heat. If not tender, continue indirect cooking; pork may be served late.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "weber-light"
+      ],
+      "deadlineOffsetMin": -80,
+      "timingEvidence": {
+        "minMinutes": 240,
+        "maxMinutes": 360,
+        "confidence": "low",
+        "kind": "published_and_community_synthesis",
+        "sourceIds": [
+          "WEBER-PORCH",
+          "UKBBQ-FAIL",
+          "WEBER-REAL",
+          "UKBBQ-LONG",
+          "CLARKE-LIVE",
+          "WEBER-SNAKE",
+          "WEBER-BELLY"
+        ],
+        "assumption": "2.8kg all-belly roll on one-sided indirect 160–180°C kettle, aiming ~85–88°C tender texture plus conditional crackle; duration is not validated. Clean probe safety checkpoint remains independent.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "cabbage-reheat",
+      "title": "Reheat braised red cabbage",
+      "recipeId": "cabbage",
+      "plannedStart": "13:30",
+      "durationMin": 35,
+      "station": "Multicooker",
+      "doneWhen": "Fully thawed cabbage steaming hot through; if held to 14:20, verify hot holding at or above 63°C in the actual multicooker.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -15,
+      "timingEvidence": {
+        "minMinutes": 20,
+        "maxMinutes": 40,
+        "confidence": "low",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "FSA-CHILL",
+          "FSA-COOK"
+        ],
+        "assumption": "Estimated from thawed 9-portion batch; actual multicooker mode unverified.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "oven-preheat",
+      "title": "Preheat gas oven and heavy tray",
+      "recipeId": "pithivier",
+      "plannedStart": "12:15",
+      "durationMin": 40,
+      "station": "Gas oven",
+      "doneWhen": "Gas oven and heavy pastry tray have actually reached the trialled ~200°C setting; oven is free of previous dishes.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -85,
+      "timingEvidence": {
+        "minMinutes": 25,
+        "maxMinutes": 45,
+        "confidence": "medium-low",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "GOOD-PIE"
+        ],
+        "assumption": "Includes a heavy tray; verify true gas-oven temperature before pastry.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "welcome",
+      "title": "Serve palmiers and drinks",
+      "recipeId": "palmiers",
+      "plannedStart": "12:30",
+      "durationMin": 10,
+      "station": "Table",
+      "doneWhen": "Palmiers crisp via tested baked-from-frozen refresh or thawed alternative; clementine fizz mixed by taste. Food served on time.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -90,
+      "timingEvidence": {
+        "minMinutes": 5,
+        "maxMinutes": 15,
+        "confidence": "medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Plating and serving, not a food-safety duration.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "soup-reheat",
+      "title": "Reheat velouté",
+      "recipeId": "soup",
+      "plannedStart": "12:45",
+      "durationMin": 25,
+      "station": "Gas hobs",
+      "doneWhen": "Fully thawed velouté stirred until steaming hot throughout, oat cream incorporated; start garnishing for 13:15.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -65,
+      "timingEvidence": {
+        "minMinutes": 15,
+        "maxMinutes": 30,
+        "confidence": "low",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "FSA-COOK"
+        ],
+        "assumption": "Estimated 2L fully thawed; stir and confirm steaming hot throughout.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "pie-bake",
+      "title": "Bake vegan mushroom pithivier",
+      "recipeId": "pithivier",
+      "plannedStart": "12:55",
+      "durationMin": 70,
+      "station": "Gas oven",
+      "doneWhen": "Cold well-sealed pithivier with tested filling height, 3cm clean rim, deeply baked lid and underside, hot centre and three generous vegan portions.",
+      "manualGate": true,
+      "anchor": "service",
+      "dependsOn": [
+        "oven-preheat"
+      ],
+      "deadlineOffsetMin": -10,
+      "tempRangeC": [
+        190,
+        210
+      ],
+      "prepTaskId": "t4-0",
+      "timingEvidence": {
+        "minMinutes": 50,
+        "maxMinutes": 75,
+        "confidence": "medium-low",
+        "kind": "published_comparison",
+        "sourceIds": [
+          "GOOD-PIE",
+          "GOOD-VEGAN-PIE"
+        ],
+        "assumption": "26–28cm pie extrapolated from smaller published pithiviers; inspect base and centre.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "soup-serve",
+      "title": "Serve velouté starter",
+      "recipeId": "soup",
+      "plannedStart": "13:15",
+      "durationMin": 10,
+      "station": "Table",
+      "doneWhen": "Starter served with vegan toppings and separate optional hazelnuts.",
+      "manualGate": true,
+      "anchor": "service",
+      "dependsOn": [
+        "soup-reheat"
+      ],
+      "deadlineOffsetMin": -55,
+      "timingEvidence": {
+        "minMinutes": 5,
+        "maxMinutes": 15,
+        "confidence": "medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Garnish and plate 9 bowls; excludes soup reheating.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "roasties-crisp",
+      "title": "Finish roast potatoes",
+      "recipeId": "roasties",
+      "plannedStart": "13:10",
+      "durationMin": 50,
+      "station": "Gas oven",
+      "doneWhen": "2.3kg potatoes uncrowded beside pithivier; final ~90ml oil of total 160ml used, all golden crisp and piping hot.",
+      "manualGate": true,
+      "anchor": "service",
+      "dependsOn": [
+        "oven-preheat"
+      ],
+      "deadlineOffsetMin": -20,
+      "tempRangeC": [
+        190,
+        210
+      ],
+      "timingEvidence": {
+        "minMinutes": 30,
+        "maxMinutes": 55,
+        "confidence": "medium",
+        "kind": "published_comparison",
+        "sourceIds": [
+          "WHICH-ROAST",
+          "GOOD-ROAST"
+        ],
+        "assumption": "Requires genuine pale-gold prior-day par-roast and trays with room for airflow.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "vegan-sauce",
+      "title": "Reheat and finish porcini sauce",
+      "recipeId": "porcini",
+      "plannedStart": "14:00",
+      "durationMin": 15,
+      "station": "Gas hobs",
+      "doneWhen": "Fully thawed porcini sauce reduced if required, whisked glossy and steaming hot in vegan-only saucepan.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -2,
+      "timingEvidence": {
+        "minMinutes": 10,
+        "maxMinutes": 25,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "FSA-COOK"
+        ],
+        "assumption": "Fully thawed small sauce portions, pan stirred until steaming.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "meat-jus",
+      "title": "Reheat separate pork jus",
+      "recipeId": "pork-jus",
+      "plannedStart": "14:00",
+      "durationMin": 15,
+      "station": "Gas hobs",
+      "doneWhen": "Fully thawed pork jus steaming hot in meat-only pan; ladle never used for vegan gravy.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -2,
+      "timingEvidence": {
+        "minMinutes": 10,
+        "maxMinutes": 25,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "FSA-COOK"
+        ],
+        "assumption": "Fully thawed pork jus, wholly separate pan and utensils.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "carrots-glaze",
+      "title": "Glaze maple-orange carrots",
+      "recipeId": "carrots",
+      "plannedStart": "13:40",
+      "durationMin": 20,
+      "station": "Gas hobs",
+      "doneWhen": "Blanched carrots glossy, hot and tender; if finished early cover in a preheated dish and check still hot before serving.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -15,
+      "timingEvidence": {
+        "minMinutes": 15,
+        "maxMinutes": 25,
+        "confidence": "medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Pre-blanched carrot finish; practical wide pan estimate.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "stuffing-refresh",
+      "title": "Refresh vegan stuffing balls",
+      "recipeId": "stuffing",
+      "plannedStart": "13:35",
+      "durationMin": 20,
+      "station": "Gas hobs",
+      "doneWhen": "20–24 vegan flax-bound balls reheated uncovered in oil, crisp and hot at centre; verify holding if kept before 14:20.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -15,
+      "timingEvidence": {
+        "minMinutes": 12,
+        "maxMinutes": 25,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "VEGAN-STUFF"
+        ],
+        "assumption": "Previously cooked stuffing balls; pan warming method needs rehearsal.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "sprouts-char",
+      "title": "Finish sprouts and chestnuts",
+      "recipeId": "sprouts",
+      "plannedStart": "13:40",
+      "durationMin": 35,
+      "station": "Gas hobs",
+      "doneWhen": "1kg sprouts cooked uncrowded in 3–4 char batches, chestnuts heated thoroughly, lemon added off heat; validate 35min in testbed.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -2,
+      "timingEvidence": {
+        "minMinutes": 25,
+        "maxMinutes": 45,
+        "confidence": "low",
+        "kind": "published_comparison",
+        "sourceIds": [
+          "OTTOLENGHI-SPROUTS"
+        ],
+        "assumption": "1kg dry pre-blanched sprouts in ~250–330g batches on a real wide pan; timing unmeasured; peak 4 gas burners requires second cook.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "pie-rest",
+      "title": "Rest and check pithivier before carving",
+      "recipeId": "pithivier",
+      "plannedStart": "14:05",
+      "durationMin": 10,
+      "station": "Table",
+      "doneWhen": "Pithivier has rested ~10min, base checked and vegan servings ready to cut; do NOT carve pork at the same station.",
+      "manualGate": true,
+      "anchor": "service",
+      "dependsOn": [
+        "pie-bake"
+      ],
+      "deadlineOffsetMin": 0,
+      "timingEvidence": {
+        "minMinutes": 8,
+        "maxMinutes": 15,
+        "confidence": "medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "GOOD-PIE"
+        ],
+        "assumption": "Let pastry settle, then inspect base and cut.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "main-serve",
+      "title": "Serve the winter feast",
+      "recipeId": "pithivier",
+      "plannedStart": "14:20",
+      "durationMin": 10,
+      "station": "Table",
+      "doneWhen": "Pithivier and every vegan side plated and hot; serve three vegan adults first. Pork and jus are separate and may follow later if still cooking.",
+      "manualGate": true,
+      "anchor": "service",
+      "dependsOn": [
+        "pie-rest",
+        "roasties-crisp",
+        "cauliflower-warm",
+        "cabbage-reheat",
+        "carrots-glaze",
+        "stuffing-refresh",
+        "sprouts-char",
+        "vegan-sauce"
+      ],
+      "deadlineOffsetMin": 12,
+      "timingEvidence": {
+        "minMinutes": 5,
+        "maxMinutes": 15,
+        "confidence": "medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Plating service only; keep pork and vegan tools separate.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "alaska-finish",
+      "title": "Torch Alaskas from fully frozen",
+      "recipeId": "alaska",
+      "plannedStart": "16:00",
+      "durationMin": 10,
+      "station": "Table",
+      "doneWhen": "From fully frozen, safely torch two completely sealed Alaska domes on heatproof board without collapse OR serve un-torched chocolate-orange frozen dessert.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": 115,
+      "timingEvidence": {
+        "minMinutes": 5,
+        "maxMinutes": 12,
+        "confidence": "medium-low",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "BAKEOFF-ALASKA",
+          "CAULDRON-ALASKA"
+        ],
+        "assumption": "5–12 minutes to torch two pre-coated domes is our estimate; sources support technique but do not validate exact torch duration.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      },
+      "dependsOn": [
+        "alaska-meringue"
+      ]
+    },
+    {
+      "id": "weber-check",
+      "title": "Check Weber grate and pork core (1 of 3)",
+      "recipeId": "porchetta",
+      "plannedStart": "09:15",
+      "durationMin": 8,
+      "station": "Outdoor prep",
+      "doneWhen": "Log actual grate heat, pork core, fire steadiness and drip-pan condition; adjust vents or carefully rotate if needed.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "weber-light"
+      ],
+      "deadlineOffsetMin": -150,
+      "timingEvidence": {
+        "minMinutes": 8,
+        "maxMinutes": 15,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Planning estimate for this household equipment; chef checks physical readiness.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "weber-fuel",
+      "title": "Assess pork tenderness and prepare lit crackling fuel, only if close to done",
+      "recipeId": "porchetta",
+      "plannedStart": "12:20",
+      "durationMin": 15,
+      "station": "Outdoor prep",
+      "doneWhen": "Probe tender end-point first; if nearing ready, light enough fully lit coals for indirect 230–260°C as measured. Chimney quantity depends on actual temperature and fire; do not auto-dump a full load.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "weber-light"
+      ],
+      "deadlineOffsetMin": -95,
+      "timingEvidence": {
+        "minMinutes": 10,
+        "maxMinutes": 25,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "CLARKE-LIVE",
+          "WEBER-SNAKE",
+          "WEBER-BELLY"
+        ],
+        "assumption": "Decision checkpoint; chimney may take 15–25 minutes to be fully alight. Workload overlaps oven/soup prep: delegate outdoor task when possible.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "weber-finish-check",
+      "title": "If pork is tender, supervise high-heat indirect crackling",
+      "recipeId": "porchetta",
+      "plannedStart": "13:00",
+      "durationMin": 25,
+      "station": "Outdoor prep",
+      "doneWhen": "After safe core/time and tenderness have actually been verified, use measured, controlled INDIRECT high heat to crisp the skin; 13:00–13:25 is only the contingency slot. If meat is late, continue roasting and defer the pork; log crackling as skipped/not required only when physically checked.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "porchetta-roast"
+      ],
+      "deadlineOffsetMin": -55,
+      "timingEvidence": {
+        "minMinutes": 15,
+        "maxMinutes": 30,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [
+          "CLARKE-LIVE",
+          "WEBER-SNAKE",
+          "WEBER-BELLY"
+        ],
+        "assumption": "Conditional, supervised crackling with fully lit fuel if necessary; must follow the verified roast checkpoint. Never infer pork is ready because a planning slot started.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "pork-rest",
+      "title": "Rest cooked porchetta, skin uncovered",
+      "recipeId": "porchetta",
+      "plannedStart": "13:25",
+      "durationMin": 40,
+      "station": "Meat station",
+      "doneWhen": "Rest only after safe, tender pork is off the fire; aim for 20–40 minutes on a clean meat-only rack, without trapping steam. If ready early, monitor food temperatures and use a verified safe holding plan, not a fixed 65-minute unmonitored counter rest. If late, serve meat separately.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "porchetta-roast",
+        "weber-finish-check"
+      ],
+      "deadlineOffsetMin": -15,
+      "timingEvidence": {
+        "minMinutes": 20,
+        "maxMinutes": 45,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "The 13:25–14:05 reservation is a 40-minute resting interval only, not a guarantee of 13:25 doneness. Earlier readiness needs a verified separate hot-hold; later readiness must not delay vegan service.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "pork-carve",
+      "title": "Carve porchetta separately just before service",
+      "recipeId": "porchetta",
+      "plannedStart": "14:05",
+      "durationMin": 15,
+      "station": "Meat station",
+      "doneWhen": "At about 14:05–14:10 carve on a dedicated meat-only board onto a separate warm platter. If the pork has not reached safe tender readiness, serve it later; vegan main remains on time.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "pork-rest"
+      ],
+      "deadlineOffsetMin": 10,
+      "timingEvidence": {
+        "minMinutes": 10,
+        "maxMinutes": 15,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Carving near 14:20 is preferable to slicing 25min earlier; if one chef is busy plating, assign a meat-only helper.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "cauliflower-warm",
+      "title": "Finish roasted cauliflower with miso cashew sauce",
+      "recipeId": "cauliflower",
+      "plannedStart": "13:30",
+      "durationMin": 30,
+      "station": "Gas hobs",
+      "doneWhen": "Roasted cauliflower reheated steaming hot with late-added vegan cashew sauce in ONE wide pan, crumb topping kept crisp and dry until service.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -15,
+      "timingEvidence": {
+        "minMinutes": 20,
+        "maxMinutes": 35,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Planning estimate for this household equipment; chef checks physical readiness.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "alaska-meringue",
+      "title": "Make proven fresh Alaska meringue for two domes (or check tested coating)",
+      "recipeId": "alaska",
+      "plannedStart": "14:50",
+      "durationMin": 60,
+      "station": "Dessert bench",
+      "doneWhen": "Either chosen-brand, 121°C-tested aquafaba meringue cooled and BOTH frozen domes completely sealed, or matching 96-hour pre-frozen coating passed; otherwise prepare safe un-torched frozen dessert.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": 90,
+      "timingEvidence": {
+        "minMinutes": 40,
+        "maxMinutes": 75,
+        "confidence": "low",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Full 220ml REDUCED aquafaba batch for TWO domes: hot syrup, cooling, coating and piping; 60 minutes not kitchen-validated.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "weber-check-mid",
+      "title": "Check Weber grate and pork core (2 of 3)",
+      "recipeId": "porchetta",
+      "plannedStart": "10:15",
+      "durationMin": 8,
+      "station": "Outdoor prep",
+      "doneWhen": "Log actual grate/core temperature and burn rate; adjust vents or add ALREADY LIT fuel if necessary. Check for a safe drip pan and unwanted flames.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "weber-light"
+      ],
+      "deadlineOffsetMin": -150,
+      "timingEvidence": {
+        "minMinutes": 8,
+        "maxMinutes": 15,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Hourly logged observation during 2.8kg rolled belly cook; not a temperature prediction.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "weber-check-late",
+      "title": "Check Weber grate and pork core (3 of 3)",
+      "recipeId": "porchetta",
+      "plannedStart": "11:15",
+      "durationMin": 8,
+      "station": "Outdoor prep",
+      "doneWhen": "Log actual grate/core temperature and burn rate; adjust vents or add ALREADY LIT fuel if necessary. Check for a safe drip pan and unwanted flames.",
+      "manualGate": true,
+      "anchor": "fixed",
+      "dependsOn": [
+        "weber-light"
+      ],
+      "deadlineOffsetMin": -150,
+      "timingEvidence": {
+        "minMinutes": 8,
+        "maxMinutes": 15,
+        "confidence": "low-medium",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Hourly logged observation during 2.8kg rolled belly cook; not a temperature prediction.",
+        "reviewed": "2026-11-03",
+        "measured": false
+      }
+    },
+    {
+      "id": "palmiers-refresh",
+      "title": "Re-crisp palmiers before oven preheat",
+      "recipeId": "palmiers",
+      "plannedStart": "11:50",
+      "durationMin": 15,
+      "station": "Gas oven",
+      "doneWhen": "Frozen already-baked palmiers re-crisped until hot and crisp, rack-cooled for service, or specifically tested fully defrosted room-temp fallback followed; oven clear for 12:15 preheat.",
+      "manualGate": true,
+      "anchor": "service",
+      "deadlineOffsetMin": -135,
+      "tempRangeC": [
+        165,
+        185
+      ],
+      "prepTaskId": "t1-4",
+      "timingEvidence": {
+        "minMinutes": 8,
+        "maxMinutes": 18,
+        "confidence": "low",
+        "kind": "engineering_estimate",
+        "sourceIds": [],
+        "assumption": "Unverified re-crisp of previously baked frozen pastry, before gas oven switches to pie preheat.",
+        "reviewed": "2026-11-04",
+        "measured": false
+      }
+    }
+  ],
+  "executionCapacities": {
+    "Gas oven": 2,
+    "Gas hobs": 4,
+    "Weber": 1,
+    "Multicooker": 1,
+    "Table": 3,
+    "Outdoor prep": 1,
+    "Meat station": 1,
+    "Dessert bench": 1
+  },
+  "timingEvidencePolicy": {
+    "basis": "Chef-technique trial methods; see docs/CHEF_TECHNIQUE_AUDIT_2026.md and docs/RECIPE_TESTBED_2026.md. No actual kitchen timings yet.",
+    "manualReadyGatesRemain": true,
+    "observedDataOverridesEstimate": true,
+    "unplannedDish": [],
+    "plannedServiceTime": "14:20",
+    "nowIncludesCauliflower": true,
+    "canonicalTimeline": "executionTasks",
+    "resourceRehearsalRequired": true,
+    "chefTechniqueTrial": true
+  },
+  "shoppingEssentials": [
+    {
+      "name": "Baking parchment",
+      "qty": 1,
+      "unit": "roll",
+      "aisle": "Equipment",
+      "note": "For pastry, sponge, praline and roasting; one roll not multiplied by recipe scale."
+    },
+    {
+      "name": "Aluminium foil",
+      "qty": 1,
+      "unit": "roll",
+      "aisle": "Equipment",
+      "note": "Covering and safe heat handling."
+    },
+    {
+      "name": "Blowtorch butane refill",
+      "qty": 1,
+      "unit": "canister",
+      "aisle": "Equipment",
+      "note": "Check compatibility; one canister is a fixed shopping unit."
+    },
+    {
+      "name": "Plain flour for rolling pastry",
+      "qty": 60,
+      "unit": "g",
+      "aisle": "Bakery & dry goods",
+      "note": "Separate dusting allowance."
+    },
+    {
+      "name": "Sea salt — pantry top-up",
+      "qty": 1,
+      "unit": "pack",
+      "aisle": "Cupboard & condiments",
+      "note": "Check supply for recipes not explicitly weighed."
+    },
+    {
+      "name": "Black pepper — pantry top-up",
+      "qty": 1,
+      "unit": "jar",
+      "aisle": "Cupboard & condiments",
+      "note": "Check grinder supply for seasoning."
+    },
+    {
+      "name": "Sugar thermometer (121°C syrup)",
+      "qty": 1,
+      "unit": "piece",
+      "aisle": "Equipment",
+      "note": "For the fresh vegan Italian meringue; a meat probe alone may not suit boiling sugar."
+    },
+    {
+      "name": "Electric mixer (stand or hand)",
+      "qty": 1,
+      "unit": "piece",
+      "aisle": "Equipment",
+      "note": "Check that it can safely whip Italian aquafaba meringue while syrup is added."
+    },
+    {
+      "name": "Freezer-safe dome moulds (900–1000ml)",
+      "qty": 2,
+      "unit": "pieces",
+      "aisle": "Equipment",
+      "note": "For two separate Alaskas; check freezer shelf and rigid cover space."
+    }
+  ],
+  "rehearsalChecklist": {
+    "basis": "Issue #26 release gate and docs/KITCHEN_REHEARSAL.md. Results are observations only: they never change recipes, timings or food-safety checks automatically.",
+    "groups": [
+      {
+        "id": "weber",
+        "title": "Weber porchetta",
+        "when": "As early as practical",
+        "recipeId": "porchetta",
+        "items": [
+          {
+            "id": "weber-joint",
+            "text": "Use a representative rolled belly (plan assumes 2.8kg) and record its weight",
+            "reading": "Joint weight",
+            "unit": "kg"
+          },
+          {
+            "id": "weber-temp",
+            "text": "Hold 170–190°C indirect on the lid thermometer through the cook",
+            "reading": "Typical lid reading",
+            "unit": "°C",
+            "min": 170,
+            "max": 190,
+            "ifProblem": "Change the charcoal layout or vents and repeat before trusting the timing."
+          },
+          {
+            "id": "weber-fuel",
+            "text": "Record charcoal layout, briquette count and whether a half-chimney top-up was needed",
+            "reading": "Briquettes used"
+          },
+          {
+            "id": "weber-time",
+            "text": "Time from joint on the grate to probe-confirmed doneness",
+            "reading": "Cook time",
+            "unit": "min"
+          },
+          {
+            "id": "weber-core",
+            "text": "Confirm a safe cooked core with a calibrated probe before crackling and rest",
+            "reading": "Core reading",
+            "unit": "°C"
+          },
+          {
+            "id": "weber-crackle",
+            "text": "Crackling finished without flare-ups; note rest time and carving",
+            "reading": "Rest time",
+            "unit": "min"
+          },
+          {
+            "id": "weber-fallback",
+            "text": "Fallback plan for a slow roast that does not need the gas oven during the 12:55–14:05 pithivier bake",
+            "ifProblem": "Simplify or start earlier; do not shorten the roast."
+          }
+        ]
+      },
+      {
+        "id": "pithivier",
+        "title": "Pithivier base",
+        "when": "12–13 December",
+        "recipeId": "pithivier",
+        "items": [
+          {
+            "id": "pith-pastry",
+            "text": "Pastry and glaze labels checked vegan; vegan-only tools used"
+          },
+          {
+            "id": "pith-filling",
+            "text": "Mushroom filling cooked dry and fully cooled before assembly"
+          },
+          {
+            "id": "pith-assembly",
+            "text": "Assembled the day before and held chilled without the pastry going soggy"
+          },
+          {
+            "id": "pith-oven",
+            "text": "Oven thermometer reading with preheated tray on the lower/middle shelf (~200°C planned)",
+            "reading": "Actual oven",
+            "unit": "°C"
+          },
+          {
+            "id": "pith-bake",
+            "text": "Bake time until the lid is golden",
+            "reading": "Bake time",
+            "unit": "min"
+          },
+          {
+            "id": "pith-base",
+            "text": "Base crisp and cooked through without a burnt lid",
+            "ifProblem": "Try a different shelf/tray position or a drier filling, then repeat."
+          },
+          {
+            "id": "pith-centre",
+            "text": "Centre thoroughly hot; note rest and slice quality",
+            "reading": "Centre reading",
+            "unit": "°C"
+          }
+        ]
+      },
+      {
+        "id": "thaw",
+        "title": "Thaw times",
+        "when": "Use the real Christmas containers",
+        "items": [
+          {
+            "id": "thaw-soup",
+            "text": "Velouté container: fridge transfer until the centre is fully thawed",
+            "reading": "Thaw time",
+            "unit": "h",
+            "max": 24,
+            "ifProblem": "Repack into smaller, flatter portions."
+          },
+          {
+            "id": "thaw-cabbage",
+            "text": "Cabbage container: fridge transfer until fully thawed",
+            "reading": "Thaw time",
+            "unit": "h",
+            "max": 24,
+            "ifProblem": "Repack into smaller, flatter portions."
+          },
+          {
+            "id": "thaw-porcini",
+            "text": "Porcini sauce container: fridge transfer until fully thawed",
+            "reading": "Thaw time",
+            "unit": "h",
+            "max": 24,
+            "ifProblem": "Repack into smaller, flatter portions."
+          },
+          {
+            "id": "thaw-jus",
+            "text": "Pork jus (separate, meat-only container): fridge transfer until fully thawed",
+            "reading": "Thaw time",
+            "unit": "h",
+            "max": 24,
+            "ifProblem": "Repack into smaller, flatter portions."
+          },
+          {
+            "id": "thaw-reheat",
+            "text": "Reheat one thawed portion once until steaming hot throughout",
+            "reading": "Reheat time",
+            "unit": "min"
+          },
+          {
+            "id": "thaw-palmiers",
+            "text": "Palmiers: from-frozen oven refresh gives a good result",
+            "ifProblem": "Thaw in the fridge first and refresh by the confirmed method."
+          }
+        ]
+      },
+      {
+        "id": "alaska",
+        "title": "Baked Alaska",
+        "when": "Full test before 20 December",
+        "recipeId": "alaska",
+        "items": [
+          {
+            "id": "alaska-labels",
+            "text": "Ice cream, chocolate and sponge ingredients checked vegan"
+          },
+          {
+            "id": "alaska-frozen",
+            "text": "Assembly stays frozen until finishing (no fridge thaw)"
+          },
+          {
+            "id": "alaska-hold",
+            "text": "Coated aquafaba meringue still stable after freezer hold (plan assumes 96 hours)",
+            "reading": "Hours held",
+            "unit": "h",
+            "min": 96,
+            "ifProblem": "Plan fresh meringue 15:15–15:50 on the day."
+          },
+          {
+            "id": "alaska-finish",
+            "text": "Torch or brown, then cut cleanly; note time from freezer to table",
+            "reading": "Freezer to table",
+            "unit": "min"
+          }
+        ]
+      },
+      {
+        "id": "oven",
+        "title": "Gas oven capacity",
+        "when": "Before 20 December",
+        "items": [
+          {
+            "id": "oven-fit",
+            "text": "26–28cm pithivier sheet on the lower/middle shelf and 2.3kg half-roasted potatoes on one uncrowded upper tray, together",
+            "ifProblem": "If potatoes need two trays, the schedule must be redesigned."
+          },
+          {
+            "id": "oven-temp",
+            "text": "Oven thermometer reading at ~200°C with both trays in",
+            "reading": "Actual oven",
+            "unit": "°C"
+          }
+        ]
+      },
+      {
+        "id": "hob",
+        "title": "Hob and cauliflower",
+        "when": "Before 20 December",
+        "recipeId": "cauliflower",
+        "items": [
+          {
+            "id": "hob-cauli",
+            "text": "Full 9-portion cauliflower reheated from chilled in one large sauté pan, 13:30–14:00, sauce added near the end, steaming throughout",
+            "reading": "Reheat time",
+            "unit": "min",
+            "max": 30,
+            "ifProblem": "Reserve a second burner or batch; the four-hob plan is not validated."
+          },
+          {
+            "id": "hob-four",
+            "text": "Pans on all four rings at once: handles clear, ventilation fine, helper can manage the handoffs",
+            "ifProblem": "Rework the 13:35–14:15 hob plan before Christmas."
+          }
+        ]
+      },
+      {
+        "id": "holding",
+        "title": "Multicooker hot holding",
+        "when": "Before 20 December",
+        "recipeId": "cabbage",
+        "items": [
+          {
+            "id": "hold-model",
+            "text": "Record the exact multicooker model and the reheat/keep-warm mode used",
+            "reading": "Model and mode"
+          },
+          {
+            "id": "hold-cabbage",
+            "text": "Cabbage reheated 13:30–14:05, probe temperature at service",
+            "reading": "Service reading",
+            "unit": "°C",
+            "min": 63,
+            "ifProblem": "Below 63°C is not hot holding: reheat nearer to serving or use a burner."
+          }
+        ]
+      }
+    ]
+  }
+}
