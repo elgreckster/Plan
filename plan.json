@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "title": "The Winter Feast",
   "date": "2026-12-25",
   "baseGuests": 9,
@@ -1479,7 +1479,7 @@
   "stages": [
     {
       "id": "s0",
-      "date": "12–13 Dec",
+      "date": "5–6 Dec",
       "name": "Technique rehearsal",
       "category": "Practice",
       "tasks": [
@@ -2214,8 +2214,8 @@
     {
       "recipeId": "cabbage",
       "mode": "thaw_then_reheat",
-      "portionAdvice": "Small shallow labelled containers; reheat thoroughly on hob or verified multicooker setting.",
-      "reheatStation": "Gas hobs",
+      "portionAdvice": "Small shallow labelled containers; reheat thoroughly in the multicooker (hob as fallback) until steaming hot throughout; measure ≥63°C before any hot hold.",
+      "reheatStation": "Multicooker",
       "methodVerified": false,
       "sourceReviewDate": "2026-11-03",
       "manualConfirmation": true,
@@ -3126,7 +3126,7 @@
       {
         "id": "pithivier",
         "title": "Pithivier base",
-        "when": "12–13 December",
+        "when": "By 6 December",
         "recipeId": "pithivier",
         "items": [
           {
