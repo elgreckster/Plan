@@ -1,5 +1,5 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "title": "The Winter Feast",
   "date": "2026-12-25",
   "baseGuests": 9,
@@ -3125,51 +3125,51 @@
       },
       {
         "id": "pork-oven",
-        "title": "Pork belly oven test (1.2kg slab)",
-        "when": "8 November",
+        "title": "Pork belly oven test (1.2kg slab, gas oven)",
+        "when": "8 November · steps in order",
         "recipeId": "porchetta",
         "items": [
           {
             "id": "po-joint",
-            "text": "Record the test slab's weight and rolled diameter. It's a seasoning, roll and crackling test: a 1.2kg roll won't predict the 2.8kg cook time",
+            "text": "1 · PREP (about 11:00). Weigh the slab. Score only the flesh, not the skin. Spread on about 9g fine salt, 3–4g black pepper, 5g toasted crushed fennel seeds, 11g chopped sage, 8g rosemary, 3–4 crushed garlic cloves and the zest of 1½ clementines. Roll skin-side out and tie every 2–3cm (if it has rib bones, cook it flat instead). Pat the skin very dry, rub on the remaining ~6g salt, and chill it uncovered on a rack. Note the weight and the rolled diameter: a 1.2kg roll won't predict the 2.8kg cook time",
             "reading": "Slab weight",
             "unit": "kg"
           },
           {
-            "id": "po-season",
-            "text": "Seasoning at 0.43× (about 15g salt, 5g fennel, 11g sage, 8g rosemary, 3–4 garlic cloves, zest of 1½ clementines): note whether the salt and flavour are right before scaling back up"
-          },
-          {
             "id": "po-oven",
-            "text": "Gas oven slow roast: dial setting compared with an oven-thermometer reading (aim 160–180°C)",
+            "text": "2 · HEAT THE OVEN (about 12:30). Gas mark 3 (about 160–170°C), with an oven thermometer on the middle shelf. Gas ovens run hotter at the top, so read the dial against the thermometer after 15 minutes",
             "reading": "Oven thermometer",
             "unit": "°C",
             "min": 160,
             "max": 180,
-            "ifProblem": "Note the dial setting that actually gives 160–180°C and use that next time."
+            "ifProblem": "Move the dial half a mark at a time and note the setting that actually gives 160–180°C."
           },
           {
             "id": "po-safe",
-            "text": "Calibrated probe at the centre: time from oven-in until the core passed 70°C for 2 minutes",
+            "text": "3 · ROAST (about 12:45). Pork on a rack over a roasting tin with ½ onion, ½ apple and a splash of water (50ml cider optional), on the MIDDLE shelf, skin up. Put the probe in the centre of the thickest part. Check every 45 minutes (about 13:30, 14:15, 15:00), topping up the tin so it doesn't burn. Record when the core passes 70°C and holds it for 2 minutes",
             "reading": "Time to safe core",
             "unit": "min"
           },
           {
             "id": "po-tender",
-            "text": "Total roast time until a probe slides through meat and fat easily (planned texture guide ~85–88°C core)",
+            "text": "4 · TENDER CHECK (from about 15:00). Keep roasting until a probe or skewer slides through the meat and fat with little resistance (a texture guide of about 85–88°C core). Don't crackle before this. Record the total time from oven-in",
             "reading": "Time to tender",
             "unit": "min"
           },
           {
             "id": "po-crackle",
-            "text": "Crackling blast after the meat is tender: note the oven setting, minutes and whether the skin blistered evenly",
+            "text": "5 · CRACKLE. Move the tin's liquid away so steam doesn't soften the skin, turn the oven to gas mark 8–9 (230–240°C), and put the pork on the TOP shelf. Watch closely for 15–25 minutes until the skin is blistered all over, turning the tin if one side colours faster. Note the minutes and how even it was",
             "reading": "Blast time",
             "unit": "min",
-            "ifProblem": "Try drier skin (longer uncovered in the fridge) or a hotter blast with the joint higher in the oven; don't shorten the slow roast."
+            "ifProblem": "Next time, dry the skin longer (overnight uncovered in the fridge) or blast hotter; don't shorten the slow roast."
+          },
+          {
+            "id": "po-season",
+            "text": "6 · TASTE. Was the salt right? Were the fennel, herbs and clementine strong enough, and did the filling stay inside the roll? Note anything to change before scaling back up to 2.8kg"
           },
           {
             "id": "po-rest",
-            "text": "Rest uncovered on a rack, then carve: note rest time, carving ease and how the roll held together",
+            "text": "7 · REST AND CARVE. Rest it uncovered on a rack for 20–30 minutes, away from steam, then carve with a serrated knife. Note the rest time, how easily it carved and whether the roll held together",
             "reading": "Rest time",
             "unit": "min"
           }
