@@ -1,5 +1,5 @@
 {
-  "version": "2.2.4",
+  "version": "2.2.6",
   "title": "The Winter Feast",
   "date": "2026-12-25",
   "baseGuests": 9,
@@ -234,27 +234,19 @@
       "serves": 6,
       "activeMin": 95,
       "total": "Weber indirect roast ~4–5½h plus optional 15–25min crackling and uncovered rest; trial required",
-      "makeAhead": "Ask butcher to prep an even belly roll; roll, salt and air-dry uncovered from 23 Dec evening",
+      "makeAhead": "Buy ahead and freeze if convenient (boned, wrapped flat, labelled). Thaw in the fridge from 23 Dec morning; season, roll, tie and air-dry uncovered on 24 Dec morning; cook on 25 Dec within 24 hours of full thaw.",
       "description": "Skin-on belly, fragrant filling, uncompromisingly crisp crackling.",
       "ingredients": [
         {
           "name": "Skin-on boneless pork belly",
-          "qty": 2.8,
+          "qty": 2,
           "unit": "kg",
           "aisle": "Butcher",
           "optional": false,
-          "note": ""
+          "note": "Boneless weight, for 4 adults and 2 children with some left over (changed from 2.8kg on 8 Nov 2026). Bought on the rib bones, choose about 2.5kg (minimum weight) so about 2kg remains once boned. Can be bought ahead and frozen."
         },
         {
           "name": "Fresh sage",
-          "qty": 25,
-          "unit": "g",
-          "aisle": "Produce",
-          "optional": false,
-          "note": ""
-        },
-        {
-          "name": "Fresh rosemary",
           "qty": 18,
           "unit": "g",
           "aisle": "Produce",
@@ -262,8 +254,16 @@
           "note": ""
         },
         {
+          "name": "Fresh rosemary",
+          "qty": 13,
+          "unit": "g",
+          "aisle": "Produce",
+          "optional": false,
+          "note": ""
+        },
+        {
           "name": "Fennel seeds",
-          "qty": 12,
+          "qty": 9,
           "unit": "g",
           "aisle": "Cupboard & condiments",
           "optional": false,
@@ -271,7 +271,7 @@
         },
         {
           "name": "Garlic",
-          "qty": 8,
+          "qty": 6,
           "unit": "cloves",
           "aisle": "Produce",
           "optional": false,
@@ -279,7 +279,7 @@
         },
         {
           "name": "Clementines",
-          "qty": 3,
+          "qty": 2,
           "unit": "whole",
           "aisle": "Produce",
           "optional": false,
@@ -287,7 +287,7 @@
         },
         {
           "name": "Fine sea salt",
-          "qty": 35,
+          "qty": 25,
           "unit": "g",
           "aisle": "Cupboard & condiments",
           "optional": false,
@@ -295,7 +295,7 @@
         },
         {
           "name": "Black pepper",
-          "qty": 8,
+          "qty": 6,
           "unit": "g",
           "aisle": "Cupboard & condiments",
           "optional": false,
@@ -351,14 +351,14 @@
         }
       ],
       "steps": [
-        "23 DEC EVENING — ASK THE BUTCHER for a neat, even 2.8kg boneless skin-on belly rectangle, rib cartilage removed and unusually thick meat evened out. Ask to take trimmed rib bones home if available, but do not assume they are included. Skin edges should meet without overlap when rolled. Score ONLY the flesh. Spread about 21g of the listed 35g fine salt, all 8g black pepper, 12g lightly toasted crushed fennel seeds, 25g sage, 18g rosemary, 8 crushed garlic cloves and the zest of 3 clementines over the flesh. Optional pinch of chilli flakes or lemon zest is a deliberate, unweighed variation, not required by the shopping list.",
-        "23 DEC EVENING — Roll skin outwards into a firm even cylinder and tie with cooking twine about every 2–3cm. Pat skin very dry; rub with the remaining ~14g fine salt. If tested, VERY shallow fine pin-pricks through the rind can help fat blister, but do not deeply puncture flesh. Do not add baking powder by default (only after a test of quantity and taste). Set uncovered on a rack inside a catch tray on the LOWEST fridge shelf, physically isolated from ready-to-eat vegan food. Check adequate fridge space and temperature below 5°C. Keep refrigerated until shortly before cooking; do not leave raw pork out for an hour by default.",
+        "BUYING (ahead is fine) — You need a neat, even 2kg boneless skin-on belly rectangle, rib cartilage removed and unusually thick meat evened out; skin edges should meet without overlap when rolled. If it is sold on the rib bones, buy about 2.5kg and have the ribs taken off (or remove them yourself), keeping the bones for meat-only stock. To freeze, wrap it flat and airtight, label it with the date and freeze for up to 6 months. 23 DEC MORNING — move the frozen belly to a tray on the LOWEST fridge shelf, below 5°C and away from vegan food, and note the time. 24 DEC MORNING — only when it is soft right through (no icy centre), score ONLY the flesh. Spread about 15g of the listed 25g fine salt, all 6g black pepper, 9g lightly toasted crushed fennel seeds, 18g sage, 13g rosemary, 6 crushed garlic cloves and the zest of 2 clementines over the flesh. Optional pinch of chilli flakes or lemon zest is a deliberate, unweighed variation, not required by the shopping list.",
+        "24 DEC MORNING — Roll skin outwards into a firm even cylinder and tie with cooking twine about every 2–3cm. Pat skin very dry; rub with the remaining ~10g fine salt. If tested, VERY shallow fine pin-pricks through the rind can help fat blister, but do not deeply puncture flesh. Do not add baking powder by default (only after a test of quantity and taste). Set uncovered on a rack inside a catch tray on the LOWEST fridge shelf, physically isolated from ready-to-eat vegan food. Check adequate fridge space and temperature below 5°C. Keep refrigerated until shortly before cooking; do not leave raw pork out for an hour by default. A thawed belly must be cooked within 24 hours of fully thawing, so if it thawed early, cook it sooner or rethink the plan rather than holding it longer.",
         "25 DEC — Set up Weber Master-Touch outdoors and sheltered from gusts but NEVER in an enclosed space. Default: one charcoal bank/basket to one side with a clear indirect zone under the joint; position a metal drip tray beneath it away from direct flames. Alternatively use a rehearsed 2-wide/2-high snake of briquettes around the edge; a snake is DESIGNED to ignite unlit briquettes progressively, so do not confuse it with throwing a heap of unlit coals into the hot fire. Light the main fire with a chimney and safe firelighters. Add 2–3 optional small applewood chunks for subtle smoke; avoid lighter fluid. Maintain a measured provisional 160–180°C at the GRATE, adjusting vents and adding lit fuel when appropriate, never relying solely on the lid dial.",
         "25 DEC — Aim to place the rolled belly on the indirect side around 08:15, skin uppermost; thickest section nearer the heat. Use one clean food probe in the centre and a separate grate-level thermometer. In the drip tray put the listed 1 onion, 1 apple and optionally 100ml cider with a splash of water to prevent scorching; do not let rendered fat flare on the coals. The tray and drippings are MEAT-ONLY. Take a reading every 45–60 minutes (provisional 09:15, 10:15 and 11:15 checks), adjusting airflow or turning the joint for even cooking. Do not open the kettle more often than required. If the pan begins drying or burning, add a little liquid carefully; skim and boil any collected juices thoroughly before adding to pork jus.",
-        "ROLLED-PORK SAFETY FIRST — Cook the centre to at least the UK FSA 70°C held 2 minutes, or an accepted equivalent time/temperature combination, measured with a clean calibrated probe. Beyond that mandatory safety checkpoint, aim PROVISIONALLY for about 85–88°C for a tender, well-rendered belly, checking that a skewer or probe slips through the meat and fat with little resistance. Temperature is a guide to texture, not a guarantee. At 160–180°C a 2.8kg rolled joint might need substantially more than four hours: there is NO promise it reaches tenderness by 12:30. Record actual time and grate conditions during a rehearsal.",
+        "ROLLED-PORK SAFETY FIRST — Cook the centre to at least the UK FSA 70°C held 2 minutes, or an accepted equivalent time/temperature combination, measured with a clean calibrated probe. Beyond that mandatory safety checkpoint, aim PROVISIONALLY for about 85–88°C for a tender, well-rendered belly, checking that a skewer or probe slips through the meat and fat with little resistance. Temperature is a guide to texture, not a guarantee. At 160–180°C a 2kg rolled joint may still need around four hours or more; a thinner roll may finish earlier than the old 2.8kg plan, so start core checks on time: there is NO promise it reaches tenderness by 12:30. Record actual time and grate conditions during a rehearsal.",
         "CRACKLING — Check core, fat rendering and skin at about 12:20, then decide whether a high-heat finish will be appropriate around 13:00–13:25 (provisional). If the meat is approaching the tender end point, light sufficient fresh charcoal completely in the chimney to make a controlled high INDIRECT heat phase around 230–260°C grate temperature. A full chimney is a reserve option, NOT an automatic instruction: use the grate reading and fuel already alight. Carefully control vents, keep the pork out of direct flame, and observe the skin closely for roughly 15–25 minutes; turn the joint only when needed for even blistering. Move the drip pan safely if steaming liquid would spoil the crackle, but ALWAYS protect against dripping fat flare-ups. If the centre is not safe and tender, continue indirect cooking and push pork later rather than forcing early crackling. The 13:00 start is a conditional appointment, never proof that it is ready.",
         "REST, CARVE AND SERVE — When pork is safe, tender and crackling crisp, remove to a clean rack over a meat-only tray, uncovered and away from steam. Allow roughly 20–40 minutes of rest as a starting range; if ready substantially early, monitor actual food temperature and use a verified safe holding plan, or adjust when the meat is served. Never leave it uncovered for a fixed 65–70 minutes just to reach the carving time, or assume a closed kettle at 110°C hot-holds safely without changing texture. Ideally carve shortly before the planned 14:20 main, around 14:05–14:10, onto a meat-only platter. Serve the VEGAN pithivier and sides on time if pork is still cooking. If any meat is late, the meat course can follow separately.",
-        "WEBER TRIAL RECORD (do not substitute rotisserie timings): with a real 2.8kg belly-only roll record diameter, start temperature, outdoor wind, grate/core every 45–60min, fuel added in kg, time above FSA 70°C/2min safety checkpoint, ~85–88°C tender probe response, indirect high-heat finish and final uncovered rest. Keep vegan service independently at 14:20."
+        "WEBER TRIAL RECORD (do not substitute rotisserie timings): with a real 2kg belly-only roll record diameter, start temperature, outdoor wind, grate/core every 45–60min, fuel added in kg, time above FSA 70°C/2min safety checkpoint, ~85–88°C tender probe response, indirect high-heat finish and final uncovered rest. Keep vegan service independently at 14:20."
       ],
       "checkpoints": [
         "Use a properly set up INDIRECT fire with a separate grate probe; wind changes temperatures",
@@ -1485,7 +1485,7 @@
       "tasks": [
         {
           "id": "t0-0",
-          "title": "Order an even skin-on pork belly and confirm the collection date",
+          "title": "Buy an even skin-on pork belly (about 2.5kg on the bone or 2kg boneless); have the ribs removed, then freeze flat and labelled, or confirm a fresh collection date",
           "recipe": "porchetta"
         },
         {
@@ -1604,7 +1604,7 @@
         },
         {
           "id": "t3-3",
-          "title": "Collect even skin-on belly; on 23 Dec evening roll, tie and salt; dry uncovered on rack on bottom fridge shelf",
+          "title": "Morning: move the frozen pork belly to a tray on the bottom fridge shelf to thaw and note the time; it is seasoned, rolled and tied tomorrow morning",
           "recipe": "porchetta"
         }
       ]
@@ -1642,7 +1642,7 @@
         },
         {
           "id": "t4-5",
-          "title": "Check pork skin is drying well, meat is safely segregated and fridge remains below 5°C; do not re-roll",
+          "title": "Morning: once the belly is soft right through, score, season, roll, tie and salt the skin; dry uncovered on a rack on the bottom fridge shelf. Cook it within 24 hours of fully thawing",
           "recipe": "porchetta"
         },
         {
@@ -2332,7 +2332,7 @@
           "WEBER-SNAKE",
           "WEBER-BELLY"
         ],
-        "assumption": "2.8kg all-belly roll on one-sided indirect 160–180°C kettle, aiming ~85–88°C tender texture plus conditional crackle; duration is not validated. Clean probe safety checkpoint remains independent.",
+        "assumption": "2kg all-belly roll on one-sided indirect 160–180°C kettle, aiming ~85–88°C tender texture plus conditional crackle; duration is not validated. Clean probe safety checkpoint remains independent.",
         "reviewed": "2026-11-03",
         "measured": false
       }
@@ -2925,7 +2925,7 @@
         "confidence": "low-medium",
         "kind": "engineering_estimate",
         "sourceIds": [],
-        "assumption": "Hourly logged observation during 2.8kg rolled belly cook; not a temperature prediction.",
+        "assumption": "Hourly logged observation during 2kg rolled belly cook; not a temperature prediction.",
         "reviewed": "2026-11-03",
         "measured": false
       }
@@ -2950,7 +2950,7 @@
         "confidence": "low-medium",
         "kind": "engineering_estimate",
         "sourceIds": [],
-        "assumption": "Hourly logged observation during 2.8kg rolled belly cook; not a temperature prediction.",
+        "assumption": "Hourly logged observation during 2kg rolled belly cook; not a temperature prediction.",
         "reviewed": "2026-11-03",
         "measured": false
       }
@@ -3080,7 +3080,7 @@
         "items": [
           {
             "id": "weber-joint",
-            "text": "Use a representative rolled belly (plan assumes 2.8kg) and record its weight",
+            "text": "Use a representative rolled belly (plan assumes 2kg boneless) and record its weight",
             "reading": "Joint weight",
             "unit": "kg"
           },
@@ -3131,7 +3131,7 @@
         "items": [
           {
             "id": "po-joint",
-            "text": "1 · PREP (about 11:00). Weigh the slab. Score only the flesh, not the skin. Spread on about 9g fine salt, 3–4g black pepper, 5g toasted crushed fennel seeds, 11g chopped sage, 8g rosemary, 3–4 crushed garlic cloves and the zest of 1½ clementines. Roll skin-side out and tie every 2–3cm (if it has rib bones, cook it flat instead). Pat the skin very dry, rub on the remaining ~6g salt, and chill it uncovered on a rack. Note the weight and the rolled diameter: a 1.2kg roll won't predict the 2.8kg cook time",
+            "text": "1 · PREP (about 11:00). Weigh the slab. Score only the flesh, not the skin. Spread on about 9g fine salt, 3–4g black pepper, 5g toasted crushed fennel seeds, 11g chopped sage, 8g rosemary, 3–4 crushed garlic cloves and the zest of 1½ clementines. Roll skin-side out and tie every 2–3cm (if it has rib bones, cook it flat instead). Pat the skin very dry, rub on the remaining ~6g salt, and chill it uncovered on a rack. Note the weight and the rolled diameter: a 1.2kg roll won't predict the 2kg Christmas cook time",
             "reading": "Slab weight",
             "unit": "kg"
           },
@@ -3165,7 +3165,7 @@
           },
           {
             "id": "po-season",
-            "text": "6 · TASTE. Was the salt right? Were the fennel, herbs and clementine strong enough, and did the filling stay inside the roll? Note anything to change before scaling back up to 2.8kg"
+            "text": "6 · TASTE. Was the salt right? Were the fennel, herbs and clementine strong enough, and did the filling stay inside the roll? Note anything to change before scaling up to the 2kg Christmas roll"
           },
           {
             "id": "po-rest",
