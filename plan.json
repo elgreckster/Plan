@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "title": "The Winter Feast",
   "date": "2026-12-25",
   "baseGuests": 9,
@@ -3120,6 +3120,58 @@
             "id": "weber-fallback",
             "text": "Fallback plan for a slow roast that does not need the gas oven during the 12:55–14:05 pithivier bake",
             "ifProblem": "Simplify or start earlier; do not shorten the roast."
+          }
+        ]
+      },
+      {
+        "id": "pork-oven",
+        "title": "Pork belly oven test (1.2kg slab)",
+        "when": "8 November",
+        "recipeId": "porchetta",
+        "items": [
+          {
+            "id": "po-joint",
+            "text": "Record the test slab's weight and rolled diameter. It's a seasoning, roll and crackling test: a 1.2kg roll won't predict the 2.8kg cook time",
+            "reading": "Slab weight",
+            "unit": "kg"
+          },
+          {
+            "id": "po-season",
+            "text": "Seasoning at 0.43× (about 15g salt, 5g fennel, 11g sage, 8g rosemary, 3–4 garlic cloves, zest of 1½ clementines): note whether the salt and flavour are right before scaling back up"
+          },
+          {
+            "id": "po-oven",
+            "text": "Gas oven slow roast: dial setting compared with an oven-thermometer reading (aim 160–180°C)",
+            "reading": "Oven thermometer",
+            "unit": "°C",
+            "min": 160,
+            "max": 180,
+            "ifProblem": "Note the dial setting that actually gives 160–180°C and use that next time."
+          },
+          {
+            "id": "po-safe",
+            "text": "Calibrated probe at the centre: time from oven-in until the core passed 70°C for 2 minutes",
+            "reading": "Time to safe core",
+            "unit": "min"
+          },
+          {
+            "id": "po-tender",
+            "text": "Total roast time until a probe slides through meat and fat easily (planned texture guide ~85–88°C core)",
+            "reading": "Time to tender",
+            "unit": "min"
+          },
+          {
+            "id": "po-crackle",
+            "text": "Crackling blast after the meat is tender: note the oven setting, minutes and whether the skin blistered evenly",
+            "reading": "Blast time",
+            "unit": "min",
+            "ifProblem": "Try drier skin (longer uncovered in the fridge) or a hotter blast with the joint higher in the oven; don't shorten the slow roast."
+          },
+          {
+            "id": "po-rest",
+            "text": "Rest uncovered on a rack, then carve: note rest time, carving ease and how the roll held together",
+            "reading": "Rest time",
+            "unit": "min"
           }
         ]
       },
